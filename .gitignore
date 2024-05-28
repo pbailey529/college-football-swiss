@@ -1,0 +1,6 @@
+notebooks/.ipynb_checkpoints/
+output/
+pickle/
+src/__pycache__/
+src/.deprecated
+venv/
