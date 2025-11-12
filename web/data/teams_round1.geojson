@@ -1,0 +1,4774 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6973657608032,
+          32.4338020067956
+        ]
+      },
+      "properties": {
+        "nickname": "AbCh",
+        "team": "Abilene Christian",
+        "conference": "WAC",
+        "rating": 49.5,
+        "wins": "",
+        "losses": "TTU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.843688011169,
+          38.9969074312268
+        ]
+      },
+      "properties": {
+        "nickname": "AF",
+        "team": "Air Force",
+        "conference": "MWC-MOUNTAIN",
+        "rating": 75.37,
+        "wins": "UNM ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5083837509155,
+          41.0725695152871
+        ]
+      },
+      "properties": {
+        "nickname": "Akr",
+        "team": "Akron",
+        "conference": "MAC-EAST",
+        "rating": 52.73,
+        "wins": "",
+        "losses": "Kent ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.579303741455,
+          34.7832145305281
+        ]
+      },
+      "properties": {
+        "nickname": "ALAM",
+        "team": "Alabama A&M",
+        "conference": "SWAC-EAST",
+        "rating": 31.86,
+        "wins": "",
+        "losses": "Chat ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8277173042297,
+          42.6815441600528
+        ]
+      },
+      "properties": {
+        "nickname": "Alb",
+        "team": "Albany",
+        "conference": "COLONIAL",
+        "rating": 40.31,
+        "wins": "Dart ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1363124847412,
+          31.8731844044783
+        ]
+      },
+      "properties": {
+        "nickname": "AlcS",
+        "team": "Alcorn State",
+        "conference": "SWAC-WEST",
+        "rating": 36.55,
+        "wins": "",
+        "losses": "ULM ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3114156948226,
+          32.3806859735875
+        ]
+      },
+      "properties": {
+        "nickname": "AlSt",
+        "team": "Alabama State",
+        "conference": "SWAC-EAST",
+        "rating": 33.76,
+        "wins": "",
+        "losses": "Troy ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6855061054229,
+          36.211515301693
+        ]
+      },
+      "properties": {
+        "nickname": "App",
+        "team": "Appalachian State",
+        "conference": "SUN BELT EAST",
+        "rating": 67.31,
+        "wins": "ETSU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.949039459228,
+          32.2283402320714
+        ]
+      },
+      "properties": {
+        "nickname": "Ariz",
+        "team": "Arizona",
+        "conference": "PAC-12 SOUTH",
+        "rating": 70.55,
+        "wins": "",
+        "losses": "ASU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1787958145141,
+          36.0678507851673
+        ]
+      },
+      "properties": {
+        "nickname": "Ark",
+        "team": "Arkansas",
+        "conference": "SEC-WEST",
+        "rating": 78.72,
+        "wins": "MoSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9640808105468,
+          41.3870804347742
+        ]
+      },
+      "properties": {
+        "nickname": "Army",
+        "team": "Army",
+        "conference": "I-A IND.",
+        "rating": 67.79,
+        "wins": "Mari ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0217780714437,
+          34.2528433892265
+        ]
+      },
+      "properties": {
+        "nickname": "ArPB",
+        "team": "Arkansas Pine Bluff",
+        "conference": "SWAC-WEST",
+        "rating": 23.04,
+        "wins": "",
+        "losses": "CeAR ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6676949436291,
+          35.8489900953236
+        ]
+      },
+      "properties": {
+        "nickname": "ArSt",
+        "team": "Arkansas State",
+        "conference": "SUN BELT WEST",
+        "rating": 53.42,
+        "wins": "",
+        "losses": "Memp ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932616,
+          33.426364
+        ]
+      },
+      "properties": {
+        "nickname": "ASU",
+        "team": "Arizona State",
+        "conference": "PAC-12 SOUTH",
+        "rating": 69.09,
+        "wins": "Ariz ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4889106750488,
+          32.6023616668175
+        ]
+      },
+      "properties": {
+        "nickname": "Aub",
+        "team": "Auburn",
+        "conference": "SEC-WEST",
+        "rating": 75.57,
+        "wins": "JSU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4176996220661,
+          40.2160276446665
+        ]
+      },
+      "properties": {
+        "nickname": "Ball",
+        "team": "Ball State",
+        "conference": "MAC-WEST",
+        "rating": 60.11,
+        "wins": "Day ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5503921508789,
+          33.2074899449517
+        ]
+      },
+      "properties": {
+        "nickname": "Bama",
+        "team": "Alabama",
+        "conference": "SEC-WEST",
+        "rating": 95.88,
+        "wins": "Sam ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1156001091003,
+          31.5586626355116
+        ]
+      },
+      "properties": {
+        "nickname": "Bay",
+        "team": "Baylor",
+        "conference": "BIG 12",
+        "rating": 79.41,
+        "wins": "",
+        "losses": "TAMU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1664724349975,
+          42.3351083489585
+        ]
+      },
+      "properties": {
+        "nickname": "BC",
+        "team": "Boston College",
+        "conference": "ACC-ATLANTIC",
+        "rating": 60.84,
+        "wins": "",
+        "losses": "Harv ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1177679002626,
+          29.1730751119705
+        ]
+      },
+      "properties": {
+        "nickname": "BCU",
+        "team": "Bethune-Cookman",
+        "conference": "SWAC-EAST",
+        "rating": 26.36,
+        "wins": "",
+        "losses": "UF ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.195912361145,
+          43.6027080538683
+        ]
+      },
+      "properties": {
+        "nickname": "BoSt",
+        "team": "Boise State",
+        "conference": "MWC-MOUNTAIN",
+        "rating": 73.65,
+        "wins": "Ida ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6224821209907,
+          41.3780543980322
+        ]
+      },
+      "properties": {
+        "nickname": "Bowl",
+        "team": "Bowling Green",
+        "conference": "MAC-EAST",
+        "rating": 55.1,
+        "wins": "",
+        "losses": "Tol ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3946461077084,
+          41.8421454678782
+        ]
+      },
+      "properties": {
+        "nickname": "Bro",
+        "team": "Brown",
+        "conference": "IVY LEAGUE",
+        "rating": 33.58,
+        "wins": "",
+        "losses": "URI ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5380118857875,
+          41.9240451152858
+        ]
+      },
+      "properties": {
+        "nickname": "Bry",
+        "team": "Bryant",
+        "conference": "BIG SOUTH",
+        "rating": 39.91,
+        "wins": "",
+        "losses": "Holy ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8857456505959,
+          40.9520773619051
+        ]
+      },
+      "properties": {
+        "nickname": "Buck",
+        "team": "Bucknell",
+        "conference": "PATRIOT",
+        "rating": 25.84,
+        "wins": "",
+        "losses": "PaSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7775194644928,
+          42.9990683823964
+        ]
+      },
+      "properties": {
+        "nickname": "Buff",
+        "team": "Buffalo",
+        "conference": "MAC-EAST",
+        "rating": 62.1,
+        "wins": "Corn ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.166241911809,
+          39.8442975650596
+        ]
+      },
+      "properties": {
+        "nickname": "But",
+        "team": "Butler",
+        "conference": "PIONEER",
+        "rating": 27.38,
+        "wins": "",
+        "losses": "Purd ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.654438972473,
+          40.2574879974631
+        ]
+      },
+      "properties": {
+        "nickname": "BYU",
+        "team": "BYU",
+        "conference": "I-A IND.",
+        "rating": 71.8,
+        "wins": "SoUT ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.250709533691,
+          37.8706866037042
+        ]
+      },
+      "properties": {
+        "nickname": "Cal",
+        "team": "California",
+        "conference": "PAC-12 NORTH",
+        "rating": 70.38,
+        "wins": "UCD ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.665114225167,
+          35.2985168294003
+        ]
+      },
+      "properties": {
+        "nickname": "CalP",
+        "team": "Cal Poly",
+        "conference": "BIG SKY",
+        "rating": 34.87,
+        "wins": "",
+        "losses": "FrSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7429795892665,
+          35.4047183451882
+        ]
+      },
+      "properties": {
+        "nickname": "Camp",
+        "team": "Campbell",
+        "conference": "BIG SOUTH",
+        "rating": 44.03,
+        "wins": "",
+        "losses": "ECU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0170228280525,
+          33.7928381752244
+        ]
+      },
+      "properties": {
+        "nickname": "CCar",
+        "team": "Coastal Carolina",
+        "conference": "SUN BELT EAST",
+        "rating": 62.18,
+        "wins": "SCSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4601221084594,
+          35.0803032166218
+        ]
+      },
+      "properties": {
+        "nickname": "CeAR",
+        "team": "Central Arkansas",
+        "conference": "ASUN",
+        "rating": 50.93,
+        "wins": "ArPB ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7614321591481,
+          41.6951367540605
+        ]
+      },
+      "properties": {
+        "nickname": "CeCT",
+        "team": "Central Connecticut",
+        "conference": "NORTHEAST",
+        "rating": 28.87,
+        "wins": "",
+        "losses": "Yale ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7404937710652,
+          35.310280676164
+        ]
+      },
+      "properties": {
+        "nickname": "Char",
+        "team": "Charlotte",
+        "conference": "CONF-USA",
+        "rating": 49.09,
+        "wins": "",
+        "losses": "Dav ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3157687187194,
+          35.0360404491686
+        ]
+      },
+      "properties": {
+        "nickname": "Chat",
+        "team": "Chattanooga",
+        "conference": "SOUTHERN",
+        "rating": 53.73,
+        "wins": "ALAM ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0684685823592,
+          32.9783500561406
+        ]
+      },
+      "properties": {
+        "nickname": "ChSo",
+        "team": "Charleston Southern",
+        "conference": "BIG SOUTH",
+        "rating": 36.53,
+        "wins": "Cit ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5162614374157,
+          39.131284252734
+        ]
+      },
+      "properties": {
+        "nickname": "Cinc",
+        "team": "Cincinnati",
+        "conference": "AAC",
+        "rating": 74.73,
+        "wins": "MiaO ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9564318910352,
+          32.7932634640853
+        ]
+      },
+      "properties": {
+        "nickname": "Cit",
+        "team": "The Citadel",
+        "conference": "SOUTHERN",
+        "rating": 39.2,
+        "wins": "",
+        "losses": "ChSo ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8431797027587,
+          34.6787466574134
+        ]
+      },
+      "properties": {
+        "nickname": "Clem",
+        "team": "Clemson",
+        "conference": "ACC-ATLANTIC",
+        "rating": 85.58,
+        "wins": "Fur ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7708296775817,
+          43.5776122825745
+        ]
+      },
+      "properties": {
+        "nickname": "CMU",
+        "team": "Central Michigan",
+        "conference": "MAC-WEST",
+        "rating": 58.82,
+        "wins": "",
+        "losses": "MSU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9157140635693,
+          40.8723189213081
+        ]
+      },
+      "properties": {
+        "nickname": "Col",
+        "team": "Columbia",
+        "conference": "IVY LEAGUE",
+        "rating": 42.89,
+        "wins": "",
+        "losses": "Ford ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5458116531372,
+          42.8165272450098
+        ]
+      },
+      "properties": {
+        "nickname": "Colg",
+        "team": "Colgate",
+        "conference": "PATRIOT",
+        "rating": 33.89,
+        "wins": "",
+        "losses": "Syr ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.266886949539,
+          40.0093983744632
+        ]
+      },
+      "properties": {
+        "nickname": "Colo",
+        "team": "Colorado",
+        "conference": "PAC-12 SOUTH",
+        "rating": 54.03,
+        "wins": "NoCO ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6189422607421,
+          41.7598842782029
+        ]
+      },
+      "properties": {
+        "nickname": "Conn",
+        "team": "Connecticut",
+        "conference": "I-A IND.",
+        "rating": 56.15,
+        "wins": "UMas ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4786839485168,
+          42.4440129576118
+        ]
+      },
+      "properties": {
+        "nickname": "Corn",
+        "team": "Cornell",
+        "conference": "IVY LEAGUE",
+        "rating": 35.96,
+        "wins": "",
+        "losses": "Buff ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.139843711922,
+          40.561742448678
+        ]
+      },
+      "properties": {
+        "nickname": "CoSt",
+        "team": "Colorado State",
+        "conference": "MWC-MOUNTAIN",
+        "rating": 56.64,
+        "wins": "Wyo ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2847763239833,
+          43.7012721867834
+        ]
+      },
+      "properties": {
+        "nickname": "Dart",
+        "team": "Dartmouth",
+        "conference": "IVY LEAGUE",
+        "rating": 44.4,
+        "wins": "",
+        "losses": "Alb ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8434523914253,
+          35.4995848258246
+        ]
+      },
+      "properties": {
+        "nickname": "Dav",
+        "team": "Davidson",
+        "conference": "PIONEER",
+        "rating": 30.13,
+        "wins": "Char ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.198786658853,
+          39.736938
+        ]
+      },
+      "properties": {
+        "nickname": "Day",
+        "team": "Dayton",
+        "conference": "PIONEER",
+        "rating": 29.56,
+        "wins": "",
+        "losses": "Ball ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7488301174382,
+          39.6617040181287
+        ]
+      },
+      "properties": {
+        "nickname": "Del",
+        "team": "Delaware",
+        "conference": "COLONIAL",
+        "rating": 52.91,
+        "wins": "Nova ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5434942245483,
+          39.1888260066536
+        ]
+      },
+      "properties": {
+        "nickname": "DeSt",
+        "team": "Delaware State",
+        "conference": "MID-EASTERN",
+        "rating": 25.71,
+        "wins": "",
+        "losses": "Navy ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6550220847129,
+          41.605006051524
+        ]
+      },
+      "properties": {
+        "nickname": "Dra",
+        "team": "Drake",
+        "conference": "PIONEER",
+        "rating": 26.0,
+        "wins": "",
+        "losses": "IaSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9417243003845,
+          35.9953166502013
+        ]
+      },
+      "properties": {
+        "nickname": "Duke",
+        "team": "Duke",
+        "conference": "ACC-COASTAL",
+        "rating": 75.57,
+        "wins": "NCCe ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9901509070334,
+          40.4356217823094
+        ]
+      },
+      "properties": {
+        "nickname": "Duq",
+        "team": "Duquesne",
+        "conference": "NORTHEAST",
+        "rating": 34.83,
+        "wins": "",
+        "losses": "Pitt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1811618804931,
+          39.4805930240453
+        ]
+      },
+      "properties": {
+        "nickname": "EaIl",
+        "team": "Eastern Illinois",
+        "conference": "OHIO VALLEY",
+        "rating": 33.68,
+        "wins": "",
+        "losses": "InSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3652291297912,
+          35.5964257969893
+        ]
+      },
+      "properties": {
+        "nickname": "ECU",
+        "team": "East Carolina",
+        "conference": "AAC",
+        "rating": 70.85,
+        "wins": "Camp ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.298095703125,
+          37.7344758710105
+        ]
+      },
+      "properties": {
+        "nickname": "EKY",
+        "team": "Eastern Kentucky",
+        "conference": "ASUN",
+        "rating": 48.79,
+        "wins": "",
+        "losses": "UK ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5076811313629,
+          36.1098743683231
+        ]
+      },
+      "properties": {
+        "nickname": "Elon",
+        "team": "Elon",
+        "conference": "COLONIAL",
+        "rating": 51.32,
+        "wins": "NCAT ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.647756576538,
+          42.2557607087688
+        ]
+      },
+      "properties": {
+        "nickname": "EMU",
+        "team": "Eastern Michigan",
+        "conference": "MAC-WEST",
+        "rating": 64.78,
+        "wins": "",
+        "losses": "Mich ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3769417861926,
+          36.3270867430187
+        ]
+      },
+      "properties": {
+        "nickname": "ETSU",
+        "team": "East Tennessee State",
+        "conference": "SOUTHERN",
+        "rating": 43.18,
+        "wins": "",
+        "losses": "App ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.588129043579,
+          47.4927037670047
+        ]
+      },
+      "properties": {
+        "nickname": "EWU",
+        "team": "Eastern Washington",
+        "conference": "BIG SKY",
+        "rating": 44.51,
+        "wins": "",
+        "losses": "WSU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.291427970328,
+          30.426136950087
+        ]
+      },
+      "properties": {
+        "nickname": "FAMU",
+        "team": "Florida A&M",
+        "conference": "SWAC-EAST",
+        "rating": 42.76,
+        "wins": "",
+        "losses": "FSU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.101683139801,
+          26.3754535636523
+        ]
+      },
+      "properties": {
+        "nickname": "FAU",
+        "team": "Florida Atlantic",
+        "conference": "CONF-USA",
+        "rating": 63.4,
+        "wins": "USF ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3778648376464,
+          25.752492787474
+        ]
+      },
+      "properties": {
+        "nickname": "FIU",
+        "team": "FIU",
+        "conference": "CONF-USA",
+        "rating": 43.16,
+        "wins": "",
+        "losses": "Mia ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8832712173461,
+          40.8611805435104
+        ]
+      },
+      "properties": {
+        "nickname": "Ford",
+        "team": "Fordham",
+        "conference": "PATRIOT",
+        "rating": 48.24,
+        "wins": "Col ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.758101566905,
+          36.8143196952459
+        ]
+      },
+      "properties": {
+        "nickname": "FrSt",
+        "team": "Fresno State",
+        "conference": "MWC-WEST",
+        "rating": 76.85,
+        "wins": "CalP ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.304533981035,
+          30.4375475846212
+        ]
+      },
+      "properties": {
+        "nickname": "FSU",
+        "team": "Florida State",
+        "conference": "ACC-ATLANTIC",
+        "rating": 84.33,
+        "wins": "FAMU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4377689786167,
+          34.9198365246995
+        ]
+      },
+      "properties": {
+        "nickname": "Fur",
+        "team": "Furman",
+        "conference": "SOUTHERN",
+        "rating": 61.4,
+        "wins": "",
+        "losses": "Clem ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6737427963355,
+          35.2456686619942
+        ]
+      },
+      "properties": {
+        "nickname": "GarW",
+        "team": "Gardner-Webb",
+        "conference": "BIG SOUTH",
+        "rating": 48.87,
+        "wins": "",
+        "losses": "Woff ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7831707000732,
+          32.4122116763477
+        ]
+      },
+      "properties": {
+        "nickname": "GASO",
+        "team": "Georgia Southern",
+        "conference": "SUN BELT EAST",
+        "rating": 62.25,
+        "wins": "",
+        "losses": "Merc ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4010603427887,
+          33.7576173764784
+        ]
+      },
+      "properties": {
+        "nickname": "GaSt",
+        "team": "Georgia State",
+        "conference": "SUN BELT EAST",
+        "rating": 64.45,
+        "wins": "",
+        "losses": "GT ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.075400352478,
+          38.9080328116556
+        ]
+      },
+      "properties": {
+        "nickname": "GeoT",
+        "team": "Georgetown",
+        "conference": "PATRIOT",
+        "rating": 25.47,
+        "wins": "",
+        "losses": "Rich ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7214074544663,
+          32.5208674487851
+        ]
+      },
+      "properties": {
+        "nickname": "GrSt",
+        "team": "Grambling State",
+        "conference": "SWAC-WEST",
+        "rating": 29.52,
+        "wins": "",
+        "losses": "LaTe ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3928527832031,
+          33.7725569213194
+        ]
+      },
+      "properties": {
+        "nickname": "GT",
+        "team": "Georgia Tech",
+        "conference": "ACC-COASTAL",
+        "rating": 96.03,
+        "wins": "GaSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3339555221659,
+          37.0207061232821
+        ]
+      },
+      "properties": {
+        "nickname": "Hamp",
+        "team": "Hampton",
+        "conference": "COLONIAL",
+        "rating": 33.18,
+        "wins": "",
+        "losses": "WiMa ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12680128,
+          42.366997
+        ]
+      },
+      "properties": {
+        "nickname": "Harv",
+        "team": "Harvard",
+        "conference": "IVY LEAGUE",
+        "rating": 48.99,
+        "wins": "BC ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.929968833923,
+          21.3727829932682
+        ]
+      },
+      "properties": {
+        "nickname": "Hawa",
+        "team": "Hawaii",
+        "conference": "MWC-WEST",
+        "rating": 52.42,
+        "wins": "",
+        "losses": "",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8114042282104,
+          42.2410046910841
+        ]
+      },
+      "properties": {
+        "nickname": "Holy",
+        "team": "Holy Cross",
+        "conference": "PATRIOT",
+        "rating": 65.86,
+        "wins": "Bry ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3490984109521,
+          29.7217679632935
+        ]
+      },
+      "properties": {
+        "nickname": "Hou",
+        "team": "Houston",
+        "conference": "AAC",
+        "rating": 71.51,
+        "wins": "Rice ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.352337360382,
+          29.7522505600511
+        ]
+      },
+      "properties": {
+        "nickname": "HouC",
+        "team": "Houston Christian ",
+        "conference": "SOUTHLAND",
+        "rating": 24.06,
+        "wins": "",
+        "losses": "TXSo ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0212412131183,
+          38.9256708847653
+        ]
+      },
+      "properties": {
+        "nickname": "How",
+        "team": "Howard",
+        "conference": "MID-EASTERN",
+        "rating": 36.53,
+        "wins": "",
+        "losses": "Mary ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6358094215393,
+          42.0140054110848
+        ]
+      },
+      "properties": {
+        "nickname": "IaSt",
+        "team": "Iowa State",
+        "conference": "BIG 12",
+        "rating": 75.98,
+        "wins": "Dra ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.017551919226,
+          46.7263496146411
+        ]
+      },
+      "properties": {
+        "nickname": "Ida",
+        "team": "Idaho",
+        "conference": "BIG SKY",
+        "rating": 59.48,
+        "wins": "",
+        "losses": "BoSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.428524494171,
+          42.8700355712198
+        ]
+      },
+      "properties": {
+        "nickname": "IdSt",
+        "team": "Idaho State",
+        "conference": "BIG SKY",
+        "rating": 34.28,
+        "wins": "",
+        "losses": "UtSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2359862327575,
+          40.0993057313305
+        ]
+      },
+      "properties": {
+        "nickname": "Ill",
+        "team": "Illinois",
+        "conference": "BIG TEN-WEST",
+        "rating": 79.54,
+        "wins": "IlSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9962530136108,
+          40.5120046806667
+        ]
+      },
+      "properties": {
+        "nickname": "IlSt",
+        "team": "Illinois State",
+        "conference": "MISSOURI VALLEY",
+        "rating": 51.07,
+        "wins": "",
+        "losses": "Ill ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5255737304687,
+          39.1809091337292
+        ]
+      },
+      "properties": {
+        "nickname": "Ind",
+        "team": "Indiana",
+        "conference": "BIG TEN-EAST",
+        "rating": 65.8,
+        "wins": "",
+        "losses": "Louv ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3673582077026,
+          39.4743654748612
+        ]
+      },
+      "properties": {
+        "nickname": "InSt",
+        "team": "Indiana State",
+        "conference": "MISSOURI VALLEY",
+        "rating": 42.59,
+        "wins": "EaIl ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5514755249023,
+          41.6583889368098
+        ]
+      },
+      "properties": {
+        "nickname": "Iowa",
+        "team": "Iowa",
+        "conference": "BIG TEN-WEST",
+        "rating": 81.5,
+        "wins": "NoIA ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1797831058502,
+          32.3296335816193
+        ]
+      },
+      "properties": {
+        "nickname": "Jack",
+        "team": "Jackson State",
+        "conference": "SWAC-EAST",
+        "rating": 51.72,
+        "wins": "MVSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8734033040367,
+          38.4350889358521
+        ]
+      },
+      "properties": {
+        "nickname": "JMU",
+        "team": "James Madison",
+        "conference": "SUN BELT EAST",
+        "rating": 71.88,
+        "wins": "UVA ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7664656639099,
+          33.820310305704
+        ]
+      },
+      "properties": {
+        "nickname": "JSU",
+        "team": "Jacksonville State",
+        "conference": "ASUN",
+        "rating": 58.91,
+        "wins": "",
+        "losses": "Aub ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6154897,
+          34.0234337
+        ]
+      },
+      "properties": {
+        "nickname": "Kenn",
+        "team": "Kennesaw State",
+        "conference": "ASUN",
+        "rating": 45.06,
+        "wins": "",
+        "losses": "UGA ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3134394586086,
+          41.1390868254951
+        ]
+      },
+      "properties": {
+        "nickname": "Kent",
+        "team": "Kent State",
+        "conference": "MAC-EAST",
+        "rating": 62.71,
+        "wins": "Akr ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.593792438507,
+          39.2018636181424
+        ]
+      },
+      "properties": {
+        "nickname": "KSU",
+        "team": "Kansas State",
+        "conference": "BIG 12",
+        "rating": 86.1,
+        "wins": "KU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2463150024414,
+          38.9629459889853
+        ]
+      },
+      "properties": {
+        "nickname": "KU",
+        "team": "Kansas",
+        "conference": "BIG 12",
+        "rating": 73.12,
+        "wins": "",
+        "losses": "KSU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2102413284663,
+          40.7007265741943
+        ]
+      },
+      "properties": {
+        "nickname": "Laf",
+        "team": "Lafayette",
+        "conference": "PATRIOT",
+        "rating": 32.81,
+        "wins": "",
+        "losses": "Lehi ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0699072055309,
+          30.043150050345
+        ]
+      },
+      "properties": {
+        "nickname": "Lam",
+        "team": "Lamar",
+        "conference": "SOUTHLAND",
+        "rating": 29.97,
+        "wins": "",
+        "losses": "McNS ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6560188758494,
+          32.5322380991582
+        ]
+      },
+      "properties": {
+        "nickname": "LaTe",
+        "team": "Louisiana Tech",
+        "conference": "CONF-USA",
+        "rating": 53.19,
+        "wins": "GrSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3554606437683,
+          40.5891237081224
+        ]
+      },
+      "properties": {
+        "nickname": "Lehi",
+        "team": "Lehigh",
+        "conference": "PATRIOT",
+        "rating": 30.06,
+        "wins": "Laf ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.175047,
+          37.354414
+        ]
+      },
+      "properties": {
+        "nickname": "Lib",
+        "team": "Liberty",
+        "conference": "I-A IND.",
+        "rating": 63.73,
+        "wins": "VMI ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0162641355238,
+          30.2157960967561
+        ]
+      },
+      "properties": {
+        "nickname": "Lous",
+        "team": "Louisiana",
+        "conference": "SUN BELT WEST",
+        "rating": 67.35,
+        "wins": "NiSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.758105615668,
+          38.2054216852114
+        ]
+      },
+      "properties": {
+        "nickname": "Louv",
+        "team": "Louisville",
+        "conference": "ACC-ATLANTIC",
+        "rating": 80.41,
+        "wins": "Ind ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1838197708129,
+          30.4120123982997
+        ]
+      },
+      "properties": {
+        "nickname": "LSU",
+        "team": "LSU",
+        "conference": "SEC-WEST",
+        "rating": 86.27,
+        "wins": "Sou ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.673550558134,
+          44.9044661257467
+        ]
+      },
+      "properties": {
+        "nickname": "Main",
+        "team": "Maine",
+        "conference": "COLONIAL",
+        "rating": 40.93,
+        "wins": "",
+        "losses": "UNH ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9326238632202,
+          41.7189273847624
+        ]
+      },
+      "properties": {
+        "nickname": "Mari",
+        "team": "Marist",
+        "conference": "PIONEER",
+        "rating": 19.07,
+        "wins": "",
+        "losses": "Army ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4218583106994,
+          38.4248653617916
+        ]
+      },
+      "properties": {
+        "nickname": "Mars",
+        "team": "Marshall",
+        "conference": "SUN BELT EAST",
+        "rating": 69.72,
+        "wins": "More ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9473117324878,
+          38.9912027514442
+        ]
+      },
+      "properties": {
+        "nickname": "Mary",
+        "team": "Maryland",
+        "conference": "BIG TEN-EAST",
+        "rating": 76.85,
+        "wins": "How ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2107460048247,
+          30.1736932843449
+        ]
+      },
+      "properties": {
+        "nickname": "McNS",
+        "team": "McNeese State",
+        "conference": "SOUTHLAND",
+        "rating": 36.62,
+        "wins": "Lam ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9780574112838,
+          35.1208569172689
+        ]
+      },
+      "properties": {
+        "nickname": "Memp",
+        "team": "Memphis",
+        "conference": "AAC",
+        "rating": 73.86,
+        "wins": "ArSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.626851,
+          32.834263
+        ]
+      },
+      "properties": {
+        "nickname": "Merc",
+        "team": "Mercer",
+        "conference": "SOUTHERN",
+        "rating": 57.92,
+        "wins": "GASO ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2388405799865,
+          25.9579337390289
+        ]
+      },
+      "properties": {
+        "nickname": "Mia",
+        "team": "Miami",
+        "conference": "ACC-COASTAL",
+        "rating": 66.53,
+        "wins": "FIU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7333545014001,
+          39.5194211314234
+        ]
+      },
+      "properties": {
+        "nickname": "MiaO",
+        "team": "Miami (OH)",
+        "conference": "MAC-EAST",
+        "rating": 60.81,
+        "wins": "",
+        "losses": "Cinc ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7487256526947,
+          42.2658687325173
+        ]
+      },
+      "properties": {
+        "nickname": "Mich",
+        "team": "Michigan",
+        "conference": "BIG TEN-EAST",
+        "rating": 92.42,
+        "wins": "EMU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3684499263763,
+          35.8511090805408
+        ]
+      },
+      "properties": {
+        "nickname": "MidT",
+        "team": "Middle Tennessee",
+        "conference": "CONF-USA",
+        "rating": 59.65,
+        "wins": "TnTe ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2245758175849,
+          44.9765249691119
+        ]
+      },
+      "properties": {
+        "nickname": "Minn",
+        "team": "Minnesota",
+        "conference": "BIG TEN-WEST",
+        "rating": 80.32,
+        "wins": "SDSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3331141471862,
+          38.9358952967223
+        ]
+      },
+      "properties": {
+        "nickname": "Mizz",
+        "team": "Missouri",
+        "conference": "SEC-EAST",
+        "rating": 72.39,
+        "wins": "WIll ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0094745159149,
+          40.2793333205064
+        ]
+      },
+      "properties": {
+        "nickname": "Mon",
+        "team": "Monmouth",
+        "conference": "COLONIAL",
+        "rating": 41.3,
+        "wins": "Wag ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.982060589555,
+          46.8639147960056
+        ]
+      },
+      "properties": {
+        "nickname": "Mont",
+        "team": "Montana",
+        "conference": "BIG SKY",
+        "rating": 63.86,
+        "wins": "",
+        "losses": "MtSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4253692626953,
+          38.1918679567418
+        ]
+      },
+      "properties": {
+        "nickname": "More",
+        "team": "Morehead State",
+        "conference": "PIONEER",
+        "rating": 16.1,
+        "wins": "",
+        "losses": "Mars ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6226944327354,
+          39.2779653647445
+        ]
+      },
+      "properties": {
+        "nickname": "Morg",
+        "team": "Morgan State",
+        "conference": "MID-EASTERN",
+        "rating": 28.34,
+        "wins": "Tow ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2799875736236,
+          37.1976295206597
+        ]
+      },
+      "properties": {
+        "nickname": "MoSt",
+        "team": "Missouri State",
+        "conference": "MISSOURI VALLEY",
+        "rating": 55.44,
+        "wins": "",
+        "losses": "Ark ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7934243679046,
+          33.456230599072
+        ]
+      },
+      "properties": {
+        "nickname": "MsSt",
+        "team": "Mississippi State",
+        "conference": "SEC-WEST",
+        "rating": 82.84,
+        "wins": "OleM ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3437948226928,
+          33.5093393678006
+        ]
+      },
+      "properties": {
+        "nickname": "MVSt",
+        "team": "Mississippi Valley State",
+        "conference": "SWAC-EAST",
+        "rating": 24.38,
+        "wins": "",
+        "losses": "Jack ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4848753511905,
+          42.7281691163326
+        ]
+      },
+      "properties": {
+        "nickname": "MSU",
+        "team": "Michigan State",
+        "conference": "BIG TEN-EAST",
+        "rating": 73.33,
+        "wins": "CMU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.049590110778,
+          45.6589275258896
+        ]
+      },
+      "properties": {
+        "nickname": "MtSt",
+        "team": "Montana State",
+        "conference": "BIG SKY",
+        "rating": 66.85,
+        "wins": "Mont ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3166027069091,
+          36.6183866173167
+        ]
+      },
+      "properties": {
+        "nickname": "MurS",
+        "team": "Murray State",
+        "conference": "OHIO VALLEY",
+        "rating": 31.76,
+        "wins": "",
+        "losses": "UTM ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5071153640747,
+          38.9848326354336
+        ]
+      },
+      "properties": {
+        "nickname": "Navy",
+        "team": "Navy",
+        "conference": "AAC",
+        "rating": 67.61,
+        "wins": "DeSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7700870037078,
+          36.0812744166915
+        ]
+      },
+      "properties": {
+        "nickname": "NCAT",
+        "team": "NC A&T",
+        "conference": "BIG SOUTH",
+        "rating": 43.62,
+        "wins": "",
+        "losses": "Elon ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8968941002637,
+          35.97388812192
+        ]
+      },
+      "properties": {
+        "nickname": "NCCe",
+        "team": "NC Central",
+        "conference": "MID-EASTERN",
+        "rating": 46.46,
+        "wins": "",
+        "losses": "Duke ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7194871902465,
+          35.8007596820789
+        ]
+      },
+      "properties": {
+        "nickname": "NCSU",
+        "team": "NC State",
+        "conference": "ACC-ATLANTIC",
+        "rating": 75.01,
+        "wins": "",
+        "losses": "UNC ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2338244915008,
+          41.6984231215861
+        ]
+      },
+      "properties": {
+        "nickname": "ND",
+        "team": "Notre Dame",
+        "conference": "I-A IND.",
+        "rating": 83.77,
+        "wins": "WMU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8015222161342,
+          46.902907626801
+        ]
+      },
+      "properties": {
+        "nickname": "NDSU",
+        "team": "North Dakota State",
+        "conference": "MISSOURI VALLEY",
+        "rating": 69.69,
+        "wins": "",
+        "losses": "UND ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7057156562805,
+          40.8204835232949
+        ]
+      },
+      "properties": {
+        "nickname": "Neb",
+        "team": "Nebraska",
+        "conference": "BIG TEN-WEST",
+        "rating": 71.37,
+        "wins": "USD ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.817559719085,
+          39.5469248501715
+        ]
+      },
+      "properties": {
+        "nickname": "Nev",
+        "team": "Nevada",
+        "conference": "MWC-WEST",
+        "rating": 53.04,
+        "wins": "",
+        "losses": "SacS ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8036386917808,
+          29.7866830856858
+        ]
+      },
+      "properties": {
+        "nickname": "NiSt",
+        "team": "Nicholls State",
+        "conference": "SOUTHLAND",
+        "rating": 34.81,
+        "wins": "",
+        "losses": "Lous ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.778222,
+          41.934014
+        ]
+      },
+      "properties": {
+        "nickname": "NIU",
+        "team": "NIU",
+        "conference": "MAC-WEST",
+        "rating": 56.32,
+        "wins": "",
+        "losses": "Wisc ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.741136312484,
+          32.279749382264
+        ]
+      },
+      "properties": {
+        "nickname": "NMSU",
+        "team": "New Mexico State",
+        "conference": "I-A IND.",
+        "rating": 55.78,
+        "wins": "",
+        "losses": "UTEP ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.653022766113,
+          35.180402970069
+        ]
+      },
+      "properties": {
+        "nickname": "NoAZ",
+        "team": "Northern Arizona",
+        "conference": "BIG SKY",
+        "rating": 46.97,
+        "wins": "",
+        "losses": "UNLV ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.705189466476,
+          40.4033496582309
+        ]
+      },
+      "properties": {
+        "nickname": "NoCO",
+        "team": "Northern Colorado",
+        "conference": "BIG SKY",
+        "rating": 34.61,
+        "wins": "",
+        "losses": "Colo ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4673748016357,
+          42.5155436208765
+        ]
+      },
+      "properties": {
+        "nickname": "NoIA",
+        "team": "Northern Iowa",
+        "conference": "MISSOURI VALLEY",
+        "rating": 62.64,
+        "wins": "",
+        "losses": "Iowa ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2604808807373,
+          36.8466930489414
+        ]
+      },
+      "properties": {
+        "nickname": "NoSt",
+        "team": "Norfolk State",
+        "conference": "MID-EASTERN",
+        "rating": 23.37,
+        "wins": "",
+        "losses": "ODU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1592235565185,
+          33.2039350840891
+        ]
+      },
+      "properties": {
+        "nickname": "NoTX",
+        "team": "North Texas",
+        "conference": "CONF-USA",
+        "rating": 63.26,
+        "wins": "",
+        "losses": "OU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3367495536804,
+          40.0329706943882
+        ]
+      },
+      "properties": {
+        "nickname": "Nova",
+        "team": "Villanova",
+        "conference": "COLONIAL",
+        "rating": 44.48,
+        "wins": "",
+        "losses": "Del ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6924955844879,
+          42.0653996675299
+        ]
+      },
+      "properties": {
+        "nickname": "NW",
+        "team": "Northwestern",
+        "conference": "BIG TEN-WEST",
+        "rating": 62.73,
+        "wins": "Valp ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0965100969665,
+          31.7474287136861
+        ]
+      },
+      "properties": {
+        "nickname": "NWSt",
+        "team": "Northwestern State",
+        "conference": "SOUTHLAND",
+        "rating": 34.22,
+        "wins": "",
+        "losses": "SFA ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3056761026382,
+          36.8887813152348
+        ]
+      },
+      "properties": {
+        "nickname": "ODU",
+        "team": "Old Dominion",
+        "conference": "SUN BELT EAST",
+        "rating": 57.77,
+        "wins": "NoSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1034394465235,
+          39.321309084594
+        ]
+      },
+      "properties": {
+        "nickname": "Ohio",
+        "team": "Ohio",
+        "conference": "MAC-EAST",
+        "rating": 67.36,
+        "wins": "",
+        "losses": "OhSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.019728064537,
+          40.0016856893694
+        ]
+      },
+      "properties": {
+        "nickname": "OhSt",
+        "team": "Ohio State",
+        "conference": "BIG TEN-EAST",
+        "rating": 94.66,
+        "wins": "Ohio ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0665049552917,
+          36.1257086623585
+        ]
+      },
+      "properties": {
+        "nickname": "OkSt",
+        "team": "Oklahoma State",
+        "conference": "BIG 12",
+        "rating": 76.49,
+        "wins": "Tuls ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.534146260209,
+          34.3621543029929
+        ]
+      },
+      "properties": {
+        "nickname": "OleM",
+        "team": "Mississippi",
+        "conference": "SEC-WEST",
+        "rating": 78.72,
+        "wins": "",
+        "losses": "MsSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.068504333496,
+          44.0582727242666
+        ]
+      },
+      "properties": {
+        "nickname": "Ore",
+        "team": "Oregon",
+        "conference": "PAC-12 NORTH",
+        "rating": 84.98,
+        "wins": "OrSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.281407356262,
+          44.5594768421455
+        ]
+      },
+      "properties": {
+        "nickname": "OrSt",
+        "team": "Oregon State",
+        "conference": "PAC-12 NORTH",
+        "rating": 86.06,
+        "wins": "",
+        "losses": "Ore ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4425506591796,
+          35.205899594885
+        ]
+      },
+      "properties": {
+        "nickname": "OU",
+        "team": "Oklahoma",
+        "conference": "BIG 12",
+        "rating": 82.6,
+        "wins": "NoTX ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8562021255493,
+          40.8121527327504
+        ]
+      },
+      "properties": {
+        "nickname": "PaSt",
+        "team": "Penn State",
+        "conference": "BIG TEN-EAST",
+        "rating": 91.5,
+        "wins": "Buck ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3528528213501,
+          36.5358122959844
+        ]
+      },
+      "properties": {
+        "nickname": "Peay",
+        "team": "Austin Peay",
+        "conference": "ASUN",
+        "rating": 52.66,
+        "wins": "",
+        "losses": "WKU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1898074150085,
+          39.9498850045148
+        ]
+      },
+      "properties": {
+        "nickname": "Penn",
+        "team": "Penn",
+        "conference": "IVY LEAGUE",
+        "rating": 46.49,
+        "wins": "",
+        "losses": "Temp ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0157558917999,
+          40.4467837650163
+        ]
+      },
+      "properties": {
+        "nickname": "Pitt",
+        "team": "Pittsburgh",
+        "conference": "ACC-COASTAL",
+        "rating": 78.02,
+        "wins": "Duq ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.691739797592,
+          45.5215559707807
+        ]
+      },
+      "properties": {
+        "nickname": "Port",
+        "team": "Portland State",
+        "conference": "BIG SKY",
+        "rating": 41.85,
+        "wins": "",
+        "losses": "Wash ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8619809838004,
+          34.4605571284515
+        ]
+      },
+      "properties": {
+        "nickname": "Pres",
+        "team": "Presbyterian",
+        "conference": "PIONEER",
+        "rating": 6.53,
+        "wins": "",
+        "losses": "USCe ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6590840816497,
+          40.3482203655987
+        ]
+      },
+      "properties": {
+        "nickname": "Prin",
+        "team": "Princeton",
+        "conference": "IVY LEAGUE",
+        "rating": 52.16,
+        "wins": "",
+        "losses": "Rutg ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.918485,
+          40.434323
+        ]
+      },
+      "properties": {
+        "nickname": "Purd",
+        "team": "Purdue",
+        "conference": "BIG TEN-WEST",
+        "rating": 73.49,
+        "wins": "But ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9944152832031,
+          30.0911525909566
+        ]
+      },
+      "properties": {
+        "nickname": "PVAM",
+        "team": "Prairie View A&M",
+        "conference": "SWAC-WEST",
+        "rating": 37.03,
+        "wins": "",
+        "losses": "SHSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4092645645141,
+          29.7162340290943
+        ]
+      },
+      "properties": {
+        "nickname": "Rice",
+        "team": "Rice",
+        "conference": "CONF-USA",
+        "rating": 53.96,
+        "wins": "",
+        "losses": "Hou ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5439715385437,
+          37.5778650064474
+        ]
+      },
+      "properties": {
+        "nickname": "Rich",
+        "team": "Richmond",
+        "conference": "COLONIAL",
+        "rating": 56.46,
+        "wins": "GeoT ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2162992954254,
+          40.521172309297
+        ]
+      },
+      "properties": {
+        "nickname": "RoMo",
+        "team": "Robert Morris",
+        "conference": "BIG SOUTH",
+        "rating": 21.52,
+        "wins": "",
+        "losses": "YoSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4650445708728,
+          40.5137828930887
+        ]
+      },
+      "properties": {
+        "nickname": "Rutg",
+        "team": "Rutgers",
+        "conference": "BIG TEN-EAST",
+        "rating": 60.4,
+        "wins": "Prin ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2456172977671,
+          41.2194501755771
+        ]
+      },
+      "properties": {
+        "nickname": "SacH",
+        "team": "Sacred Heart",
+        "conference": "NORTHEAST",
+        "rating": 41.43,
+        "wins": "",
+        "losses": "Ston ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.422132253646,
+          38.5552050075269
+        ]
+      },
+      "properties": {
+        "nickname": "SacS",
+        "team": "Sacramento State",
+        "conference": "BIG SKY",
+        "rating": 67.09,
+        "wins": "Nev ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7952701999999,
+          33.463425
+        ]
+      },
+      "properties": {
+        "nickname": "Sam",
+        "team": "Samford",
+        "conference": "SOUTHERN",
+        "rating": 58.74,
+        "wins": "",
+        "losses": "Bama ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8449335485868,
+          33.4987670093182
+        ]
+      },
+      "properties": {
+        "nickname": "SCSt",
+        "team": "SC State",
+        "conference": "MID-EASTERN",
+        "rating": 29.73,
+        "wins": "",
+        "losses": "CCar ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.183797873547,
+          32.7734961025846
+        ]
+      },
+      "properties": {
+        "nickname": "SD",
+        "team": "San Diego",
+        "conference": "PIONEER",
+        "rating": 31.49,
+        "wins": "",
+        "losses": "SDSU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.119600772857,
+          32.7830532577911
+        ]
+      },
+      "properties": {
+        "nickname": "SDSU",
+        "team": "San Diego State",
+        "conference": "MWC-WEST",
+        "rating": 64.76,
+        "wins": "SD ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7801523208618,
+          44.3209773912753
+        ]
+      },
+      "properties": {
+        "nickname": "SDSt",
+        "team": "South Dakota State",
+        "conference": "MISSOURI VALLEY",
+        "rating": 76.02,
+        "wins": "",
+        "losses": "Minn ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4687964916229,
+          30.5109652922055
+        ]
+      },
+      "properties": {
+        "nickname": "SeLA",
+        "team": "SE Louisiana",
+        "conference": "SOUTHLAND",
+        "rating": 55.68,
+        "wins": "",
+        "losses": "Tuln ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5314717292785,
+          37.3091932771759
+        ]
+      },
+      "properties": {
+        "nickname": "SEMS",
+        "team": "SE Missouri State",
+        "conference": "OHIO VALLEY",
+        "rating": 55.34,
+        "wins": "",
+        "losses": "SoIL ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6449971628411,
+          31.6254476402517
+        ]
+      },
+      "properties": {
+        "nickname": "SFA",
+        "team": "Stephen F. Austin",
+        "conference": "WAC",
+        "rating": 45.56,
+        "wins": "NWSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5419158935546,
+          30.7139467376334
+        ]
+      },
+      "properties": {
+        "nickname": "SHSt",
+        "team": "Sam Houston State",
+        "conference": "WAC",
+        "rating": 48.38,
+        "wins": "PVAM ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.86811613079,
+          37.3201051866908
+        ]
+      },
+      "properties": {
+        "nickname": "SJSU",
+        "team": "San Jose State",
+        "conference": "MWC-WEST",
+        "rating": 62.73,
+        "wins": "",
+        "losses": "Stan ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.782705783844,
+          32.8377158099425
+        ]
+      },
+      "properties": {
+        "nickname": "SMU",
+        "team": "SMU",
+        "conference": "AAC",
+        "rating": 71.89,
+        "wins": "",
+        "losses": "TCU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0756330490112,
+          30.6742389873067
+        ]
+      },
+      "properties": {
+        "nickname": "SoAL",
+        "team": "South Alabama",
+        "conference": "SUN BELT WEST",
+        "rating": 66.84,
+        "wins": "",
+        "losses": "SoMS ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2169578488814,
+          37.7084995618978
+        ]
+      },
+      "properties": {
+        "nickname": "SoIL",
+        "team": "Southern Illinois",
+        "conference": "MISSOURI VALLEY",
+        "rating": 58.32,
+        "wins": "SEMS ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3313306570053,
+          31.3289784266123
+        ]
+      },
+      "properties": {
+        "nickname": "SoMS",
+        "team": "Southern Miss",
+        "conference": "SUN BELT WEST",
+        "rating": 63.07,
+        "wins": "SoAL ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1895312981897,
+          30.5219699680965
+        ]
+      },
+      "properties": {
+        "nickname": "Sou",
+        "team": "Southern U.",
+        "conference": "SWAC-WEST",
+        "rating": 39.82,
+        "wins": "",
+        "losses": "LSU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.077490329742,
+          37.6756687492631
+        ]
+      },
+      "properties": {
+        "nickname": "SoUT",
+        "team": "Southern Utah",
+        "conference": "WAC",
+        "rating": 44.8,
+        "wins": "",
+        "losses": "BYU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.161016464233,
+          37.4347264132917
+        ]
+      },
+      "properties": {
+        "nickname": "Stan",
+        "team": "Stanford",
+        "conference": "PAC-12 NORTH",
+        "rating": 65.76,
+        "wins": "SJSU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3003186248933,
+          29.0195078302558
+        ]
+      },
+      "properties": {
+        "nickname": "Stet",
+        "team": "Stetson",
+        "conference": "PIONEER",
+        "rating": 19.75,
+        "wins": "",
+        "losses": "UCF ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6369729898319,
+          40.5063595611279
+        ]
+      },
+      "properties": {
+        "nickname": "StFr",
+        "team": "Saint Francis",
+        "conference": "NORTHEAST",
+        "rating": 56.63,
+        "wins": "",
+        "losses": "WVU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1240451335907,
+          40.9183122023565
+        ]
+      },
+      "properties": {
+        "nickname": "Ston",
+        "team": "Stony Brook",
+        "conference": "COLONIAL",
+        "rating": 32.92,
+        "wins": "SacH ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.136519908905,
+          43.0361328204232
+        ]
+      },
+      "properties": {
+        "nickname": "Syr",
+        "team": "Syracuse",
+        "conference": "ACC-ATLANTIC",
+        "rating": 71.72,
+        "wins": "Colg ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3407292285928,
+          30.6100975781747
+        ]
+      },
+      "properties": {
+        "nickname": "TAMU",
+        "team": "Texas A&M",
+        "conference": "SEC-WEST",
+        "rating": 76.54,
+        "wins": "Bay ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3679959774017,
+          32.7099159694234
+        ]
+      },
+      "properties": {
+        "nickname": "TCU",
+        "team": "TCU",
+        "conference": "BIG 12",
+        "rating": 87.0,
+        "wins": "SMU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1674914360046,
+          39.9007489004881
+        ]
+      },
+      "properties": {
+        "nickname": "Temp",
+        "team": "Temple",
+        "conference": "AAC",
+        "rating": 58.03,
+        "wins": "Penn ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9253330230712,
+          35.9547343726225
+        ]
+      },
+      "properties": {
+        "nickname": "Tenn",
+        "team": "Tennessee",
+        "conference": "SEC-EAST",
+        "rating": 93.37,
+        "wins": "WCU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.771469,
+          36.166927
+        ]
+      },
+      "properties": {
+        "nickname": "TnSt",
+        "team": "Tennessee State",
+        "conference": "OHIO VALLEY",
+        "rating": 37.08,
+        "wins": "",
+        "losses": "Vand ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5065488815307,
+          36.1775832382055
+        ]
+      },
+      "properties": {
+        "nickname": "TnTe",
+        "team": "Tennessee Tech",
+        "conference": "OHIO VALLEY",
+        "rating": 37.85,
+        "wins": "",
+        "losses": "MidT ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6140171915029,
+          41.6573907789532
+        ]
+      },
+      "properties": {
+        "nickname": "Tol",
+        "team": "Toledo",
+        "conference": "MAC-WEST",
+        "rating": 66.95,
+        "wins": "Bowl ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.615959405899,
+          39.3885267480887
+        ]
+      },
+      "properties": {
+        "nickname": "Tow",
+        "team": "Towson",
+        "conference": "COLONIAL",
+        "rating": 42.04,
+        "wins": "",
+        "losses": "Morg ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9521769158619,
+          31.7995274152521
+        ]
+      },
+      "properties": {
+        "nickname": "Troy",
+        "team": "Troy",
+        "conference": "SUN BELT WEST",
+        "rating": 73.2,
+        "wins": "AlSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.87293767929,
+          33.591028298011
+        ]
+      },
+      "properties": {
+        "nickname": "TTU",
+        "team": "Texas Tech",
+        "conference": "BIG 12",
+        "rating": 80.9,
+        "wins": "AbCh ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.943603515625,
+          36.148860675192
+        ]
+      },
+      "properties": {
+        "nickname": "Tuls",
+        "team": "Tulsa",
+        "conference": "AAC",
+        "rating": 64.69,
+        "wins": "",
+        "losses": "OkSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.352337360382,
+          29.7522505600511
+        ]
+      },
+      "properties": {
+        "nickname": "TXSo",
+        "team": "Texas Southern",
+        "conference": "SWAC-WEST",
+        "rating": 34.37,
+        "wins": "HouC ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9253118055946,
+          29.8913445487971
+        ]
+      },
+      "properties": {
+        "nickname": "TxSt",
+        "team": "Texas State",
+        "conference": "SUN BELT WEST",
+        "rating": 52.61,
+        "wins": "",
+        "losses": "UTex ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1151911230632,
+          29.9458981125284
+        ]
+      },
+      "properties": {
+        "nickname": "Tuln",
+        "team": "Tulane",
+        "conference": "AAC",
+        "rating": 79.77,
+        "wins": "SeLA ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.763319969177,
+          38.5366354611756
+        ]
+      },
+      "properties": {
+        "nickname": "UCD",
+        "team": "UC Davis",
+        "conference": "BIG SKY",
+        "rating": 64.8,
+        "wins": "",
+        "losses": "Cal ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1929988861084,
+          28.607958859227
+        ]
+      },
+      "properties": {
+        "nickname": "UCF",
+        "team": "UCF",
+        "conference": "AAC",
+        "rating": 72.89,
+        "wins": "Stet ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167614936828,
+          34.1615695872626
+        ]
+      },
+      "properties": {
+        "nickname": "UCLA",
+        "team": "UCLA",
+        "conference": "PAC-12 SOUTH",
+        "rating": 79.03,
+        "wins": "",
+        "losses": "USC ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.348666191101,
+          29.6498686779723
+        ]
+      },
+      "properties": {
+        "nickname": "UF",
+        "team": "Florida",
+        "conference": "SEC-EAST",
+        "rating": 77.7,
+        "wins": "BCU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3734416961669,
+          33.9498214894988
+        ]
+      },
+      "properties": {
+        "nickname": "UGA",
+        "team": "Georgia",
+        "conference": "SEC-EAST",
+        "rating": 79.43,
+        "wins": "Kenn ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5052051544189,
+          38.0226216812936
+        ]
+      },
+      "properties": {
+        "nickname": "UK",
+        "team": "Kentucky",
+        "conference": "SEC-EAST",
+        "rating": 77.1,
+        "wins": "EKY ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0664407506764,
+          32.5310686945154
+        ]
+      },
+      "properties": {
+        "nickname": "ULM",
+        "team": "ULM",
+        "conference": "SUN BELT WEST",
+        "rating": 54.31,
+        "wins": "AlcS ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5356268605241,
+          42.3775132360045
+        ]
+      },
+      "properties": {
+        "nickname": "UMas",
+        "team": "UMass",
+        "conference": "I-A IND.",
+        "rating": 42.91,
+        "wins": "",
+        "losses": "Conn ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0479183197021,
+          35.9069883474785
+        ]
+      },
+      "properties": {
+        "nickname": "UNC",
+        "team": "North Carolina",
+        "conference": "ACC-COASTAL",
+        "rating": 74.07,
+        "wins": "NCSU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0904868543121,
+          47.9112541581595
+        ]
+      },
+      "properties": {
+        "nickname": "UND",
+        "team": "North Dakota",
+        "conference": "MISSOURI VALLEY",
+        "rating": 57.74,
+        "wins": "NDSU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9391525387764,
+          43.138686442556
+        ]
+      },
+      "properties": {
+        "nickname": "UNH",
+        "team": "New Hampshire",
+        "conference": "COLONIAL",
+        "rating": 48.62,
+        "wins": "Main ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.017113685607,
+          36.0859738804692
+        ]
+      },
+      "properties": {
+        "nickname": "UNLV",
+        "team": "UNLV",
+        "conference": "MWC-WEST",
+        "rating": 58.85,
+        "wins": "NoAZ ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.628102835815,
+          35.0676104826716
+        ]
+      },
+      "properties": {
+        "nickname": "UNM",
+        "team": "New Mexico",
+        "conference": "MWC-MOUNTAIN",
+        "rating": 48.44,
+        "wins": "",
+        "losses": "AF ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5345226391631,
+          41.4880575336857
+        ]
+      },
+      "properties": {
+        "nickname": "URI",
+        "team": "Rhode Island",
+        "conference": "COLONIAL",
+        "rating": 50.58,
+        "wins": "Bro ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.287895917892,
+          34.0140097406291
+        ]
+      },
+      "properties": {
+        "nickname": "USC",
+        "team": "Southern California",
+        "conference": "PAC-12 SOUTH",
+        "rating": 83.58,
+        "wins": "UCLA ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.020216345787,
+          33.9725911545769
+        ]
+      },
+      "properties": {
+        "nickname": "USCe",
+        "team": "South Carolina",
+        "conference": "SEC-EAST",
+        "rating": 76.61,
+        "wins": "Pres ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9275201606501,
+          42.7910502570519
+        ]
+      },
+      "properties": {
+        "nickname": "USD",
+        "team": "South Dakota",
+        "conference": "MISSOURI VALLEY",
+        "rating": 50.54,
+        "wins": "",
+        "losses": "Neb ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5033491849899,
+          27.9759944700371
+        ]
+      },
+      "properties": {
+        "nickname": "USF",
+        "team": "South Florida",
+        "conference": "AAC",
+        "rating": 57.48,
+        "wins": "",
+        "losses": "FAU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8488240242,
+          40.7599478200457
+        ]
+      },
+      "properties": {
+        "nickname": "Utah",
+        "team": "Utah",
+        "conference": "PAC-12 SOUTH",
+        "rating": 88.69,
+        "wins": "WebS ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.507896780967,
+          31.7733453051277
+        ]
+      },
+      "properties": {
+        "nickname": "UTEP",
+        "team": "UTEP",
+        "conference": "CONF-USA",
+        "rating": 57.65,
+        "wins": "NMSU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7323365211486,
+          30.2836034020682
+        ]
+      },
+      "properties": {
+        "nickname": "UTex",
+        "team": "Texas",
+        "conference": "BIG 12",
+        "rating": 87.17,
+        "wins": "TxSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8611769676208,
+          36.3447372747397
+        ]
+      },
+      "properties": {
+        "nickname": "UTM",
+        "team": "UT Martin",
+        "conference": "OHIO VALLEY",
+        "rating": 48.78,
+        "wins": "MurS ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4789025783538,
+          29.4169371286815
+        ]
+      },
+      "properties": {
+        "nickname": "UTSA",
+        "team": "UTSA",
+        "conference": "CONF-USA",
+        "rating": 71.54,
+        "wins": "Word ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.812105678856,
+          41.7515318861288
+        ]
+      },
+      "properties": {
+        "nickname": "UtSt",
+        "team": "Utah State",
+        "conference": "MWC-MOUNTAIN",
+        "rating": 59.84,
+        "wins": "IdSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.513708114624,
+          38.0311237285568
+        ]
+      },
+      "properties": {
+        "nickname": "UVA",
+        "team": "Virginia",
+        "conference": "ACC-COASTAL",
+        "rating": 65.12,
+        "wins": "",
+        "losses": "JMU ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0478345286491,
+          41.465178807414
+        ]
+      },
+      "properties": {
+        "nickname": "Valp",
+        "team": "Valparaiso",
+        "conference": "PIONEER",
+        "rating": 21.08,
+        "wins": "",
+        "losses": "NW ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8087720870971,
+          36.1435584969637
+        ]
+      },
+      "properties": {
+        "nickname": "Vand",
+        "team": "Vanderbilt",
+        "conference": "SEC-EAST",
+        "rating": 64.21,
+        "wins": "TnSt ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4349975678679,
+          37.788676745634
+        ]
+      },
+      "properties": {
+        "nickname": "VMI",
+        "team": "VMI",
+        "conference": "SOUTHERN",
+        "rating": 31.98,
+        "wins": "",
+        "losses": "Lib ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4180550575256,
+          37.2199742830054
+        ]
+      },
+      "properties": {
+        "nickname": "VPI",
+        "team": "Virginia Tech",
+        "conference": "ACC-COASTAL",
+        "rating": 64.29,
+        "wins": "",
+        "losses": "Wake ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0954312377263,
+          40.6173245424404
+        ]
+      },
+      "properties": {
+        "nickname": "Wag",
+        "team": "Wagner",
+        "conference": "NORTHEAST",
+        "rating": 17.09,
+        "wins": "",
+        "losses": "Mon ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2553415298461,
+          36.0918348106127
+        ]
+      },
+      "properties": {
+        "nickname": "Wake",
+        "team": "Wake Forest",
+        "conference": "ACC-ATLANTIC",
+        "rating": 77.29,
+        "wins": "VPI ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.302919847393,
+          47.6504305440122
+        ]
+      },
+      "properties": {
+        "nickname": "Wash",
+        "team": "Washington",
+        "conference": "PAC-12 NORTH",
+        "rating": 86.0,
+        "wins": "Port ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1826186180114,
+          35.3046540476882
+        ]
+      },
+      "properties": {
+        "nickname": "WCU",
+        "team": "Western Carolina",
+        "conference": "SOUTHERN",
+        "rating": 46.15,
+        "wins": "",
+        "losses": "Tenn ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.940805756734,
+          41.1919730213628
+        ]
+      },
+      "properties": {
+        "nickname": "WebS",
+        "team": "Weber State",
+        "conference": "BIG SKY",
+        "rating": 63.71,
+        "wins": "",
+        "losses": "Utah ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6841564178466,
+          40.468392354607
+        ]
+      },
+      "properties": {
+        "nickname": "WIll",
+        "team": "Western Illinois",
+        "conference": "MISSOURI VALLEY",
+        "rating": 36.37,
+        "wins": "",
+        "losses": "Mizz ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7142248153686,
+          37.2730624594961
+        ]
+      },
+      "properties": {
+        "nickname": "WiMa",
+        "team": "William & Mary",
+        "conference": "COLONIAL",
+        "rating": 56.34,
+        "wins": "Hamp ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4127464294433,
+          43.0699380264687
+        ]
+      },
+      "properties": {
+        "nickname": "Wisc",
+        "team": "Wisconsin",
+        "conference": "BIG TEN-WEST",
+        "rating": 78.22,
+        "wins": "NIU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.459013971646,
+          36.9848766298946
+        ]
+      },
+      "properties": {
+        "nickname": "WKU",
+        "team": "Western Kentucky",
+        "conference": "CONF-USA",
+        "rating": 70.72,
+        "wins": "Peay ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6010042130947,
+          42.2857554874701
+        ]
+      },
+      "properties": {
+        "nickname": "WMU",
+        "team": "Western Michigan",
+        "conference": "MAC-WEST",
+        "rating": 60.86,
+        "wins": "",
+        "losses": "ND ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9334982124616,
+          34.9618610164783
+        ]
+      },
+      "properties": {
+        "nickname": "Woff",
+        "team": "Wofford",
+        "conference": "SOUTHERN",
+        "rating": 41.09,
+        "wins": "GarW ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4698613211319,
+          29.4672834309754
+        ]
+      },
+      "properties": {
+        "nickname": "Word",
+        "team": "Incarnate Word",
+        "conference": "SOUTHLAND",
+        "rating": 76.41,
+        "wins": "",
+        "losses": "UTSA ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.160585787811,
+          46.731967978653
+        ]
+      },
+      "properties": {
+        "nickname": "WSU",
+        "team": "Washington State",
+        "conference": "PAC-12 NORTH",
+        "rating": 75.7,
+        "wins": "EWU ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9551753012939,
+          39.6522199248281
+        ]
+      },
+      "properties": {
+        "nickname": "WVU",
+        "team": "West Virginia",
+        "conference": "BIG 12",
+        "rating": 74.44,
+        "wins": "StFr ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.569064617156,
+          41.3119359929924
+        ]
+      },
+      "properties": {
+        "nickname": "Wyo",
+        "team": "Wyoming",
+        "conference": "MWC-MOUNTAIN",
+        "rating": 62.76,
+        "wins": "",
+        "losses": "CoSt ",
+        "score": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.960229121659,
+          41.3121251231602
+        ]
+      },
+      "properties": {
+        "nickname": "Yale",
+        "team": "Yale",
+        "conference": "IVY LEAGUE",
+        "rating": 52.62,
+        "wins": "CeCT ",
+        "losses": "",
+        "score": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6499762946883,
+          41.1094614636735
+        ]
+      },
+      "properties": {
+        "nickname": "YoSt",
+        "team": "Youngstown State",
+        "conference": "MISSOURI VALLEY",
+        "rating": 55.53,
+        "wins": "RoMo ",
+        "losses": "",
+        "score": 1
+      }
+    }
+  ]
+}
