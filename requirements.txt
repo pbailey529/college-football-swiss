@@ -1,5 +1,14 @@
+# Core dependencies
 geopy
 networkx
 pandas
 jupyter
+
+# Data fetching
+cfbd>=4.0.0              # CollegeFootballData.com API client
+python-dotenv>=0.19.0    # Environment variable management
+
+# Optional: for enhanced functionality
+# matplotlib>=3.5.0      # Plotting and visualization
+# seaborn>=0.11.0        # Statistical visualization
 

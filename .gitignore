@@ -166,5 +166,11 @@ pickle/
 src/__pycache__/
 src/.deprecated
 
+# Beads task management
+.beads/
+
+# API keys and secrets
+.env
+*.key
 # Web app - API keys and secrets
 web/js/config.local.js
