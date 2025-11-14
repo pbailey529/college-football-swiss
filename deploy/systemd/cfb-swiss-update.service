@@ -1,0 +1,18 @@
+[Unit]
+Description=College Football Swiss Data Update
+After=network.target
+
+[Service]
+Type=oneshot
+User=www-data
+WorkingDirectory=/var/www/college-football-swiss-repo
+ExecStart=/var/www/college-football-swiss-repo/venv/bin/python /var/www/college-football-swiss-repo/src/export_geojson.py
+ExecStartPost=/bin/bash -c 'cp -r /var/www/college-football-swiss-repo/web/data/* /var/www/college-football-swiss/data/'
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=cfb-swiss-update
+
+[Install]
+WantedBy=multi-user.target

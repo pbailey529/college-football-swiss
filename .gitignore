@@ -174,3 +174,9 @@ src/.deprecated
 *.key
 # Web app - API keys and secrets
 web/js/config.local.js
+
+# Deployment artifacts
+deploy/*.log
+deploy/backups/
+*.backup
+config.js.backup

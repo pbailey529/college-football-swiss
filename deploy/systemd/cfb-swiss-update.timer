@@ -1,0 +1,17 @@
+[Unit]
+Description=College Football Swiss Data Update Timer
+Requires=cfb-swiss-update.service
+
+[Timer]
+# Run daily at 3:00 AM
+OnCalendar=daily
+OnCalendar=*-*-* 03:00:00
+
+# Run on boot (5 minutes after startup)
+OnBootSec=5min
+
+# If the system was off when the timer was supposed to run, run it ASAP
+Persistent=true
+
+[Install]
+WantedBy=timers.target
