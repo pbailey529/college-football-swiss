@@ -11,12 +11,30 @@ A [Swiss tournament](https://en.wikipedia.org/wiki/Swiss-system_tournament) is a
 ### How are you doing this for college football?
 We represent the college football landscape as a Network Graph, where Nodes are the college football teams, and Edges represent the geographic distance between each team. We use the [Minimum Weight Matching](https://en.wikipedia.org/wiki/Matching_(graph_theory)#Maximum-weight_matching) algorithm from graph theory to pair teams such that the total travel distance is minimized. After each round, we update the network in two steps. First, we increase edge weights between teams with differing records to reduce future pairings of unevenly matched teams. Then, we remove edges between teams that have already played. The Swiss format maintains competitive balance throughout the tournament, providing a dynamic, fair, and logistically optimized tournament structure.
 
-# Installaton and setup
+# Installation and Setup
+
+## Option 1: Interactive Web Visualization (Recommended)
+
+Explore matchups on an interactive map with beautiful arc visualizations:
+
+```bash
+cd college-football-swiss
+pip install -r requirements.txt
+python src/export_geojson.py    # Generate data
+cd web
+python -m http.server 8000      # Serve the app
+# Open http://localhost:8000 in your browser
+```
+
+**Note**: You'll need a free Mapbox API token. See [web/README.md](web/README.md) for setup instructions.
+
+## Option 2: Jupyter Notebook
+
 Clone the repo, then run the following commands:
-```bsh
+```bash
 cd college-football-swiss
 python -m venv venv
-source venv/bin/activate 
+source venv/bin/activate
 pip install -r requirements.txt
 jupyter notebook notebooks/swiss.ipynb
 ```

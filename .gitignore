@@ -172,3 +172,5 @@ src/.deprecated
 # API keys and secrets
 .env
 *.key
+# Web app - API keys and secrets
+web/js/config.local.js
