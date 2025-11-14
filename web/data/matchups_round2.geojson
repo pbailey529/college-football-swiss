@@ -1,0 +1,3880 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.626851,
+            32.834263
+          ],
+          [
+            -84.304533981035,
+            30.4375475846212
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Merc",
+        "team_a_name": "Mercer",
+        "team_a_rating": 57.92,
+        "team_a_record": "1-0",
+        "team_b_nickname": "FSU",
+        "team_b_name": "Florida State",
+        "team_b_rating": 84.33,
+        "team_b_record": "1-0",
+        "rating_diff": 26.409999999999997,
+        "avg_rating": 71.125,
+        "is_top_matchup": false,
+        "distance_miles": 170.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.6550220847129,
+            41.605006051524
+          ],
+          [
+            -92.4673748016357,
+            42.5155436208765
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Dra",
+        "team_a_name": "Drake",
+        "team_a_rating": 26.0,
+        "team_a_record": "0-1",
+        "team_b_nickname": "NoIA",
+        "team_b_name": "Northern Iowa",
+        "team_b_rating": 62.64,
+        "team_b_record": "0-1",
+        "rating_diff": 36.64,
+        "avg_rating": 44.32,
+        "is_top_matchup": false,
+        "distance_miles": 87.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.6855061054229,
+            36.211515301693
+          ],
+          [
+            -83.9253330230712,
+            35.9547343726225
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "App",
+        "team_a_name": "Appalachian State",
+        "team_a_rating": 67.31,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Tenn",
+        "team_b_name": "Tennessee",
+        "team_b_rating": 93.37,
+        "team_b_record": "1-0",
+        "rating_diff": 26.060000000000002,
+        "avg_rating": 80.34,
+        "is_top_matchup": true,
+        "distance_miles": 126.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.7323365211486,
+            30.2836034020682
+          ],
+          [
+            -98.4789025783538,
+            29.4169371286815
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "UTex",
+        "team_a_name": "Texas",
+        "team_a_rating": 87.17,
+        "team_a_record": "1-0",
+        "team_b_nickname": "UTSA",
+        "team_b_name": "UTSA",
+        "team_b_rating": 71.54,
+        "team_b_record": "1-0",
+        "rating_diff": 15.629999999999995,
+        "avg_rating": 79.355,
+        "is_top_matchup": true,
+        "distance_miles": 74.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.5458116531372,
+            42.8165272450098
+          ],
+          [
+            -76.4786839485168,
+            42.4440129576118
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Colg",
+        "team_a_name": "Colgate",
+        "team_a_rating": 33.89,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Corn",
+        "team_b_name": "Cornell",
+        "team_b_rating": 35.96,
+        "team_b_record": "0-1",
+        "rating_diff": 2.0700000000000003,
+        "avg_rating": 34.925,
+        "is_top_matchup": false,
+        "distance_miles": 54.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.2553415298461,
+            36.0918348106127
+          ],
+          [
+            -80.8434523914253,
+            35.4995848258246
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Wake",
+        "team_a_name": "Wake Forest",
+        "team_a_rating": 77.29,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Dav",
+        "team_b_name": "Davidson",
+        "team_b_rating": 30.13,
+        "team_b_record": "1-0",
+        "rating_diff": 47.16000000000001,
+        "avg_rating": 53.71,
+        "is_top_matchup": false,
+        "distance_miles": 52.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.615959405899,
+            39.3885267480887
+          ],
+          [
+            -75.5434942245483,
+            39.1888260066536
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Tow",
+        "team_a_name": "Towson",
+        "team_a_rating": 42.04,
+        "team_a_record": "0-1",
+        "team_b_nickname": "DeSt",
+        "team_b_name": "Delaware State",
+        "team_b_rating": 25.71,
+        "team_b_record": "0-1",
+        "rating_diff": 16.33,
+        "avg_rating": 33.875,
+        "is_top_matchup": false,
+        "distance_miles": 59.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.6560188758494,
+            32.5322380991582
+          ],
+          [
+            -92.0664407506764,
+            32.5310686945154
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "LaTe",
+        "team_a_name": "Louisiana Tech",
+        "team_a_rating": 53.19,
+        "team_a_record": "1-0",
+        "team_b_nickname": "ULM",
+        "team_b_name": "ULM",
+        "team_b_rating": 54.31,
+        "team_b_record": "1-0",
+        "rating_diff": 1.1200000000000045,
+        "avg_rating": 53.75,
+        "is_top_matchup": false,
+        "distance_miles": 34.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.7700870037078,
+            36.0812744166915
+          ],
+          [
+            -80.4180550575256,
+            37.2199742830054
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "NCAT",
+        "team_a_name": "NC A&T",
+        "team_a_rating": 43.62,
+        "team_a_record": "0-1",
+        "team_b_nickname": "VPI",
+        "team_b_name": "Virginia Tech",
+        "team_b_rating": 64.29,
+        "team_b_record": "0-1",
+        "rating_diff": 20.67000000000001,
+        "avg_rating": 53.955,
+        "is_top_matchup": false,
+        "distance_miles": 86.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.654438972473,
+            40.2574879974631
+          ],
+          [
+            -111.8488240242,
+            40.7599478200457
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "BYU",
+        "team_a_name": "BYU",
+        "team_a_rating": 71.8,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Utah",
+        "team_b_name": "Utah",
+        "team_b_rating": 88.69,
+        "team_b_record": "1-0",
+        "rating_diff": 16.89,
+        "avg_rating": 80.245,
+        "is_top_matchup": true,
+        "distance_miles": 36.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.0479183197021,
+            35.9069883474785
+          ],
+          [
+            -78.8968941002637,
+            35.97388812192
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "UNC",
+        "team_a_name": "North Carolina",
+        "team_a_rating": 74.07,
+        "team_a_record": "1-0",
+        "team_b_nickname": "NCCe",
+        "team_b_name": "NC Central",
+        "team_b_rating": 46.46,
+        "team_b_record": "0-1",
+        "rating_diff": 27.609999999999992,
+        "avg_rating": 60.265,
+        "is_top_matchup": false,
+        "distance_miles": 9.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.4010603427887,
+            33.7576173764784
+          ],
+          [
+            -84.6154897,
+            34.0234337
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "GaSt",
+        "team_a_name": "Georgia State",
+        "team_a_rating": 64.45,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Kenn",
+        "team_b_name": "Kennesaw State",
+        "team_b_rating": 45.06,
+        "team_b_record": "0-1",
+        "rating_diff": 19.39,
+        "avg_rating": 54.755,
+        "is_top_matchup": false,
+        "distance_miles": 22.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.8087720870971,
+            36.1435584969637
+          ],
+          [
+            -86.459013971646,
+            36.9848766298946
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Vand",
+        "team_a_name": "Vanderbilt",
+        "team_a_rating": 64.21,
+        "team_a_record": "1-0",
+        "team_b_nickname": "WKU",
+        "team_b_name": "Western Kentucky",
+        "team_b_rating": 70.72,
+        "team_b_record": "1-0",
+        "rating_diff": 6.510000000000005,
+        "avg_rating": 67.465,
+        "is_top_matchup": false,
+        "distance_miles": 61.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.075400352478,
+            38.9080328116556
+          ],
+          [
+            -77.0212412131183,
+            38.9256708847653
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "GeoT",
+        "team_a_name": "Georgetown",
+        "team_a_rating": 25.47,
+        "team_a_record": "0-1",
+        "team_b_nickname": "How",
+        "team_b_name": "Howard",
+        "team_b_rating": 36.53,
+        "team_b_record": "0-1",
+        "rating_diff": 11.060000000000002,
+        "avg_rating": 31.0,
+        "is_top_matchup": false,
+        "distance_miles": 3.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.9275201606501,
+            42.7910502570519
+          ],
+          [
+            -95.2463150024414,
+            38.9629459889853
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "USD",
+        "team_a_name": "South Dakota",
+        "team_a_rating": 50.54,
+        "team_a_record": "0-1",
+        "team_b_nickname": "KU",
+        "team_b_name": "Kansas",
+        "team_b_rating": 73.12,
+        "team_b_record": "0-1",
+        "rating_diff": 22.580000000000005,
+        "avg_rating": 61.83,
+        "is_top_matchup": false,
+        "distance_miles": 278.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.166241911809,
+            39.8442975650596
+          ],
+          [
+            -86.5255737304687,
+            39.1809091337292
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "But",
+        "team_a_name": "Butler",
+        "team_a_rating": 27.38,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Ind",
+        "team_b_name": "Indiana",
+        "team_b_rating": 65.8,
+        "team_b_record": "0-1",
+        "rating_diff": 38.42,
+        "avg_rating": 46.589999999999996,
+        "is_top_matchup": false,
+        "distance_miles": 49.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.6224821209907,
+            41.3780543980322
+          ],
+          [
+            -83.647756576538,
+            42.2557607087688
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Bowl",
+        "team_a_name": "Bowling Green",
+        "team_a_rating": 55.1,
+        "team_a_record": "0-1",
+        "team_b_nickname": "EMU",
+        "team_b_name": "Eastern Michigan",
+        "team_b_rating": 64.78,
+        "team_b_record": "0-1",
+        "rating_diff": 9.68,
+        "avg_rating": 59.94,
+        "is_top_matchup": false,
+        "distance_miles": 60.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.1929988861084,
+            28.607958859227
+          ],
+          [
+            -82.348666191101,
+            29.6498686779723
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "UCF",
+        "team_a_name": "UCF",
+        "team_a_rating": 72.89,
+        "team_a_record": "1-0",
+        "team_b_nickname": "UF",
+        "team_b_name": "Florida",
+        "team_b_rating": 77.7,
+        "team_b_record": "1-0",
+        "rating_diff": 4.810000000000002,
+        "avg_rating": 75.295,
+        "is_top_matchup": true,
+        "distance_miles": 100.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.5503921508789,
+            33.2074899449517
+          ],
+          [
+            -88.7934243679046,
+            33.456230599072
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Bama",
+        "team_a_name": "Alabama",
+        "team_a_rating": 95.88,
+        "team_a_record": "1-0",
+        "team_b_nickname": "MsSt",
+        "team_b_name": "Mississippi State",
+        "team_b_rating": 82.84,
+        "team_b_record": "1-0",
+        "rating_diff": 13.039999999999992,
+        "avg_rating": 89.36,
+        "is_top_matchup": true,
+        "distance_miles": 73.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.6358094215393,
+            42.0140054110848
+          ],
+          [
+            -91.5514755249023,
+            41.6583889368098
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "IaSt",
+        "team_a_name": "Iowa State",
+        "team_a_rating": 75.98,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Iowa",
+        "team_b_name": "Iowa",
+        "team_b_rating": 81.5,
+        "team_b_record": "1-0",
+        "rating_diff": 5.519999999999996,
+        "avg_rating": 78.74000000000001,
+        "is_top_matchup": true,
+        "distance_miles": 110.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -94.0699072055309,
+            30.043150050345
+          ],
+          [
+            -95.9944152832031,
+            30.0911525909566
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Lam",
+        "team_a_name": "Lamar",
+        "team_a_rating": 29.97,
+        "team_a_record": "0-1",
+        "team_b_nickname": "PVAM",
+        "team_b_name": "Prairie View A&M",
+        "team_b_rating": 37.03,
+        "team_b_record": "0-1",
+        "rating_diff": 7.060000000000002,
+        "avg_rating": 33.5,
+        "is_top_matchup": false,
+        "distance_miles": 115.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.1674914360046,
+            39.9007489004881
+          ],
+          [
+            -75.3554606437683,
+            40.5891237081224
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Temp",
+        "team_a_name": "Temple",
+        "team_a_rating": 58.03,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Lehi",
+        "team_b_name": "Lehigh",
+        "team_b_rating": 30.06,
+        "team_b_record": "1-0",
+        "rating_diff": 27.970000000000002,
+        "avg_rating": 44.045,
+        "is_top_matchup": false,
+        "distance_miles": 48.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.4377689786167,
+            34.9198365246995
+          ],
+          [
+            -81.8619809838004,
+            34.4605571284515
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Fur",
+        "team_a_name": "Furman",
+        "team_a_rating": 61.4,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Pres",
+        "team_b_name": "Presbyterian",
+        "team_b_rating": 6.53,
+        "team_b_record": "0-1",
+        "rating_diff": 54.87,
+        "avg_rating": 33.964999999999996,
+        "is_top_matchup": false,
+        "distance_miles": 45.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.513708114624,
+            38.0311237285568
+          ],
+          [
+            -79.4349975678679,
+            37.788676745634
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "UVA",
+        "team_a_name": "Virginia",
+        "team_a_rating": 65.12,
+        "team_a_record": "0-1",
+        "team_b_nickname": "VMI",
+        "team_b_name": "VMI",
+        "team_b_rating": 31.98,
+        "team_b_record": "0-1",
+        "rating_diff": 33.14,
+        "avg_rating": 48.550000000000004,
+        "is_top_matchup": false,
+        "distance_miles": 52.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.3367495536804,
+            40.0329706943882
+          ],
+          [
+            -75.1898074150085,
+            39.9498850045148
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Nova",
+        "team_a_name": "Villanova",
+        "team_a_rating": 44.48,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Penn",
+        "team_b_name": "Penn",
+        "team_b_rating": 46.49,
+        "team_b_record": "0-1",
+        "rating_diff": 2.010000000000005,
+        "avg_rating": 45.485,
+        "is_top_matchup": false,
+        "distance_miles": 9.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.0756330490112,
+            30.6742389873067
+          ],
+          [
+            -84.291427970328,
+            30.426136950087
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "SoAL",
+        "team_a_name": "South Alabama",
+        "team_a_rating": 66.84,
+        "team_a_record": "0-1",
+        "team_b_nickname": "FAMU",
+        "team_b_name": "Florida A&M",
+        "team_b_rating": 42.76,
+        "team_b_record": "0-1",
+        "rating_diff": 24.080000000000005,
+        "avg_rating": 54.8,
+        "is_top_matchup": false,
+        "distance_miles": 225.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.068504333496,
+            44.0582727242666
+          ],
+          [
+            -122.302919847393,
+            47.6504305440122
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Ore",
+        "team_a_name": "Oregon",
+        "team_a_rating": 84.98,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Wash",
+        "team_b_name": "Washington",
+        "team_b_rating": 86.0,
+        "team_b_record": "1-0",
+        "rating_diff": 1.019999999999996,
+        "avg_rating": 85.49000000000001,
+        "is_top_matchup": true,
+        "distance_miles": 250.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -120.665114225167,
+            35.2985168294003
+          ],
+          [
+            -121.86811613079,
+            37.3201051866908
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "CalP",
+        "team_a_name": "Cal Poly",
+        "team_a_rating": 34.87,
+        "team_a_record": "0-1",
+        "team_b_nickname": "SJSU",
+        "team_b_name": "San Jose State",
+        "team_b_rating": 62.73,
+        "team_b_record": "0-1",
+        "rating_diff": 27.86,
+        "avg_rating": 48.8,
+        "is_top_matchup": false,
+        "distance_miles": 154.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.9253118055946,
+            29.8913445487971
+          ],
+          [
+            -98.4698613211319,
+            29.4672834309754
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "TxSt",
+        "team_a_name": "Texas State",
+        "team_a_rating": 52.61,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Word",
+        "team_b_name": "Incarnate Word",
+        "team_b_rating": 76.41,
+        "team_b_record": "0-1",
+        "rating_diff": 23.799999999999997,
+        "avg_rating": 64.50999999999999,
+        "is_top_matchup": false,
+        "distance_miles": 43.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.101683139801,
+            26.3754535636523
+          ],
+          [
+            -80.2388405799865,
+            25.9579337390289
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "FAU",
+        "team_a_name": "Florida Atlantic",
+        "team_a_rating": 63.4,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Mia",
+        "team_b_name": "Miami",
+        "team_b_rating": 66.53,
+        "team_b_record": "1-0",
+        "rating_diff": 3.1300000000000026,
+        "avg_rating": 64.965,
+        "is_top_matchup": false,
+        "distance_miles": 30.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.3679959774017,
+            32.7099159694234
+          ],
+          [
+            -101.87293767929,
+            33.591028298011
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "TCU",
+        "team_a_name": "TCU",
+        "team_a_rating": 87.0,
+        "team_a_record": "1-0",
+        "team_b_nickname": "TTU",
+        "team_b_name": "Texas Tech",
+        "team_b_rating": 80.9,
+        "team_b_record": "1-0",
+        "rating_diff": 6.099999999999994,
+        "avg_rating": 83.95,
+        "is_top_matchup": true,
+        "distance_miles": 267.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9901509070334,
+            40.4356217823094
+          ],
+          [
+            -80.2162992954254,
+            40.521172309297
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Duq",
+        "team_a_name": "Duquesne",
+        "team_a_rating": 34.83,
+        "team_a_record": "0-1",
+        "team_b_nickname": "RoMo",
+        "team_b_name": "Robert Morris",
+        "team_b_rating": 21.52,
+        "team_b_record": "0-1",
+        "rating_diff": 13.309999999999999,
+        "avg_rating": 28.174999999999997,
+        "is_top_matchup": false,
+        "distance_miles": 13.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.9417243003845,
+            35.9953166502013
+          ],
+          [
+            -79.5076811313629,
+            36.1098743683231
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Duke",
+        "team_a_name": "Duke",
+        "team_a_rating": 75.57,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Elon",
+        "team_b_name": "Elon",
+        "team_b_rating": 51.32,
+        "team_b_record": "1-0",
+        "rating_diff": 24.249999999999993,
+        "avg_rating": 63.44499999999999,
+        "is_top_matchup": false,
+        "distance_miles": 32.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.3684499263763,
+            35.8511090805408
+          ],
+          [
+            -85.3157687187194,
+            35.0360404491686
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "MidT",
+        "team_a_name": "Middle Tennessee",
+        "team_a_rating": 59.65,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Chat",
+        "team_b_name": "Chattanooga",
+        "team_b_rating": 53.73,
+        "team_b_record": "1-0",
+        "rating_diff": 5.920000000000002,
+        "avg_rating": 56.69,
+        "is_top_matchup": false,
+        "distance_miles": 81.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.3339555221659,
+            37.0207061232821
+          ],
+          [
+            -76.2604808807373,
+            36.8466930489414
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Hamp",
+        "team_a_name": "Hampton",
+        "team_a_rating": 33.18,
+        "team_a_record": "0-1",
+        "team_b_nickname": "NoSt",
+        "team_b_name": "Norfolk State",
+        "team_b_rating": 23.37,
+        "team_b_record": "0-1",
+        "rating_diff": 9.809999999999999,
+        "avg_rating": 28.275,
+        "is_top_matchup": false,
+        "distance_miles": 12.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.1151911230632,
+            29.9458981125284
+          ],
+          [
+            -90.8036386917808,
+            29.7866830856858
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Tuln",
+        "team_a_name": "Tulane",
+        "team_a_rating": 79.77,
+        "team_a_record": "1-0",
+        "team_b_nickname": "NiSt",
+        "team_b_name": "Nicholls State",
+        "team_b_rating": 34.81,
+        "team_b_record": "0-1",
+        "rating_diff": 44.959999999999994,
+        "avg_rating": 57.29,
+        "is_top_matchup": false,
+        "distance_miles": 42.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.9962530136108,
+            40.5120046806667
+          ],
+          [
+            -90.6841564178466,
+            40.468392354607
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "IlSt",
+        "team_a_name": "Illinois State",
+        "team_a_rating": 51.07,
+        "team_a_record": "0-1",
+        "team_b_nickname": "WIll",
+        "team_b_name": "Western Illinois",
+        "team_b_rating": 36.37,
+        "team_b_record": "0-1",
+        "rating_diff": 14.700000000000003,
+        "avg_rating": 43.72,
+        "is_top_matchup": false,
+        "distance_miles": 88.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.653022766113,
+            35.180402970069
+          ],
+          [
+            -110.949039459228,
+            32.2283402320714
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "NoAZ",
+        "team_a_name": "Northern Arizona",
+        "team_a_rating": 46.97,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Ariz",
+        "team_b_name": "Arizona",
+        "team_b_rating": 70.55,
+        "team_b_record": "0-1",
+        "rating_diff": 23.58,
+        "avg_rating": 58.76,
+        "is_top_matchup": false,
+        "distance_miles": 208.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.7487256526947,
+            42.2658687325173
+          ],
+          [
+            -83.6140171915029,
+            41.6573907789532
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Mich",
+        "team_a_name": "Michigan",
+        "team_a_rating": 92.42,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Tol",
+        "team_b_name": "Toledo",
+        "team_b_rating": 66.95,
+        "team_b_record": "1-0",
+        "rating_diff": 25.47,
+        "avg_rating": 79.685,
+        "is_top_matchup": true,
+        "distance_miles": 42.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.1177679002626,
+            29.1730751119705
+          ],
+          [
+            -81.3003186248933,
+            29.0195078302558
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "BCU",
+        "team_a_name": "Bethune-Cookman",
+        "team_a_rating": 26.36,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Stet",
+        "team_b_name": "Stetson",
+        "team_b_rating": 19.75,
+        "team_b_record": "0-1",
+        "rating_diff": 6.609999999999999,
+        "avg_rating": 23.055,
+        "is_top_matchup": false,
+        "distance_miles": 15.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.771469,
+            36.166927
+          ],
+          [
+            -85.5065488815307,
+            36.1775832382055
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "TnSt",
+        "team_a_name": "Tennessee State",
+        "team_a_rating": 37.08,
+        "team_a_record": "0-1",
+        "team_b_nickname": "TnTe",
+        "team_b_name": "Tennessee Tech",
+        "team_b_rating": 37.85,
+        "team_b_record": "0-1",
+        "rating_diff": 0.7700000000000031,
+        "avg_rating": 37.465,
+        "is_top_matchup": false,
+        "distance_miles": 70.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.422132253646,
+            38.5552050075269
+          ],
+          [
+            -119.758101566905,
+            36.8143196952459
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "SacS",
+        "team_a_name": "Sacramento State",
+        "team_a_rating": 67.09,
+        "team_a_record": "1-0",
+        "team_b_nickname": "FrSt",
+        "team_b_name": "Fresno State",
+        "team_b_rating": 76.85,
+        "team_b_record": "1-0",
+        "rating_diff": 9.759999999999991,
+        "avg_rating": 71.97,
+        "is_top_matchup": false,
+        "distance_miles": 150.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.7614321591481,
+            41.6951367540605
+          ],
+          [
+            -72.6189422607421,
+            41.7598842782029
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "CeCT",
+        "team_a_name": "Central Connecticut",
+        "team_a_rating": 28.87,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Conn",
+        "team_b_name": "Connecticut",
+        "team_b_rating": 56.15,
+        "team_b_record": "1-0",
+        "rating_diff": 27.279999999999998,
+        "avg_rating": 42.51,
+        "is_top_matchup": false,
+        "distance_miles": 8.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.198786658853,
+            39.736938
+          ],
+          [
+            -84.7333545014001,
+            39.5194211314234
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Day",
+        "team_a_name": "Dayton",
+        "team_a_rating": 29.56,
+        "team_a_record": "0-1",
+        "team_b_nickname": "MiaO",
+        "team_b_name": "Miami (OH)",
+        "team_b_rating": 60.81,
+        "team_b_record": "0-1",
+        "rating_diff": 31.250000000000004,
+        "avg_rating": 45.185,
+        "is_top_matchup": false,
+        "distance_miles": 32.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.281407356262,
+            44.5594768421455
+          ],
+          [
+            -122.691739797592,
+            45.5215559707807
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "OrSt",
+        "team_a_name": "Oregon State",
+        "team_a_rating": 86.06,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Port",
+        "team_b_name": "Portland State",
+        "team_b_rating": 41.85,
+        "team_b_record": "0-1",
+        "rating_diff": 44.21,
+        "avg_rating": 63.955,
+        "is_top_matchup": false,
+        "distance_miles": 72.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -75.2102413284663,
+            40.7007265741943
+          ],
+          [
+            -74.6590840816497,
+            40.3482203655987
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Laf",
+        "team_a_name": "Lafayette",
+        "team_a_rating": 32.81,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Prin",
+        "team_b_name": "Princeton",
+        "team_b_rating": 52.16,
+        "team_b_record": "0-1",
+        "rating_diff": 19.349999999999994,
+        "avg_rating": 42.485,
+        "is_top_matchup": false,
+        "distance_miles": 37.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.673550558134,
+            44.9044661257467
+          ],
+          [
+            -72.2847763239833,
+            43.7012721867834
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Main",
+        "team_a_name": "Maine",
+        "team_a_rating": 40.93,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Dart",
+        "team_b_name": "Dartmouth",
+        "team_b_rating": 44.4,
+        "team_b_record": "0-1",
+        "rating_diff": 3.469999999999999,
+        "avg_rating": 42.665,
+        "is_top_matchup": false,
+        "distance_miles": 197.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.5083837509155,
+            41.0725695152871
+          ],
+          [
+            -82.1034394465235,
+            39.321309084594
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Akr",
+        "team_a_name": "Akron",
+        "team_a_rating": 52.73,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Ohio",
+        "team_b_name": "Ohio",
+        "team_b_rating": 67.36,
+        "team_b_record": "0-1",
+        "rating_diff": 14.630000000000003,
+        "avg_rating": 60.045,
+        "is_top_matchup": false,
+        "distance_miles": 125.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.588129043579,
+            47.4927037670047
+          ],
+          [
+            -113.982060589555,
+            46.8639147960056
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "EWU",
+        "team_a_name": "Eastern Washington",
+        "team_a_rating": 44.51,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Mont",
+        "team_b_name": "Montana",
+        "team_b_rating": 63.86,
+        "team_b_record": "0-1",
+        "rating_diff": 19.35,
+        "avg_rating": 54.185,
+        "is_top_matchup": false,
+        "distance_miles": 174.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.017551919226,
+            46.7263496146411
+          ],
+          [
+            -117.160585787811,
+            46.731967978653
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Ida",
+        "team_a_name": "Idaho",
+        "team_a_rating": 59.48,
+        "team_a_record": "0-1",
+        "team_b_nickname": "WSU",
+        "team_b_name": "Washington State",
+        "team_b_rating": 75.7,
+        "team_b_record": "1-0",
+        "rating_diff": 16.220000000000006,
+        "avg_rating": 67.59,
+        "is_top_matchup": false,
+        "distance_miles": 6.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -91.1363124847412,
+            31.8731844044783
+          ],
+          [
+            -92.0217780714437,
+            34.2528433892265
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "AlcS",
+        "team_a_name": "Alcorn State",
+        "team_a_rating": 36.55,
+        "team_a_record": "0-1",
+        "team_b_nickname": "ArPB",
+        "team_b_name": "Arkansas Pine Bluff",
+        "team_b_rating": 23.04,
+        "team_b_record": "0-1",
+        "rating_diff": 13.509999999999998,
+        "avg_rating": 29.794999999999998,
+        "is_top_matchup": false,
+        "distance_miles": 172.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.7664656639099,
+            33.820310305704
+          ],
+          [
+            -86.579303741455,
+            34.7832145305281
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "JSU",
+        "team_a_name": "Jacksonville State",
+        "team_a_rating": 58.91,
+        "team_a_record": "0-1",
+        "team_b_nickname": "ALAM",
+        "team_b_name": "Alabama A&M",
+        "team_b_rating": 31.86,
+        "team_b_record": "0-1",
+        "rating_diff": 27.049999999999997,
+        "avg_rating": 45.385,
+        "is_top_matchup": false,
+        "distance_miles": 81.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.7404937710652,
+            35.310280676164
+          ],
+          [
+            -81.6737427963355,
+            35.2456686619942
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Char",
+        "team_a_name": "Charlotte",
+        "team_a_rating": 49.09,
+        "team_a_record": "0-1",
+        "team_b_nickname": "GarW",
+        "team_b_name": "Gardner-Webb",
+        "team_b_rating": 48.87,
+        "team_b_record": "0-1",
+        "rating_diff": 0.22000000000000597,
+        "avg_rating": 48.980000000000004,
+        "is_top_matchup": false,
+        "distance_miles": 52.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.7194871902465,
+            35.8007596820789
+          ],
+          [
+            -78.7429795892665,
+            35.4047183451882
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "NCSU",
+        "team_a_name": "NC State",
+        "team_a_rating": 75.01,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Camp",
+        "team_b_name": "Campbell",
+        "team_b_rating": 44.03,
+        "team_b_record": "0-1",
+        "rating_diff": 30.980000000000004,
+        "avg_rating": 59.52,
+        "is_top_matchup": false,
+        "distance_miles": 27.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.7142248153686,
+            37.2730624594961
+          ],
+          [
+            -77.5439715385437,
+            37.5778650064474
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "WiMa",
+        "team_a_name": "William & Mary",
+        "team_a_rating": 56.34,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Rich",
+        "team_b_name": "Richmond",
+        "team_b_rating": 56.46,
+        "team_b_record": "1-0",
+        "rating_diff": 0.11999999999999744,
+        "avg_rating": 56.400000000000006,
+        "is_top_matchup": false,
+        "distance_miles": 50.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -105.139843711922,
+            40.561742448678
+          ],
+          [
+            -104.705189466476,
+            40.4033496582309
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "CoSt",
+        "team_a_name": "Colorado State",
+        "team_a_rating": 56.64,
+        "team_a_record": "1-0",
+        "team_b_nickname": "NoCO",
+        "team_b_name": "Northern Colorado",
+        "team_b_rating": 34.61,
+        "team_b_record": "0-1",
+        "rating_diff": 22.03,
+        "avg_rating": 45.625,
+        "is_top_matchup": false,
+        "distance_miles": 25.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.593792438507,
+            39.2018636181424
+          ],
+          [
+            -96.7057156562805,
+            40.8204835232949
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "KSU",
+        "team_a_name": "Kansas State",
+        "team_a_rating": 86.1,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Neb",
+        "team_b_name": "Nebraska",
+        "team_b_rating": 71.37,
+        "team_b_record": "1-0",
+        "rating_diff": 14.72999999999999,
+        "avg_rating": 78.735,
+        "is_top_matchup": true,
+        "distance_miles": 112.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.2338244915008,
+            41.6984231215861
+          ],
+          [
+            -84.4848753511905,
+            42.7281691163326
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "ND",
+        "team_a_name": "Notre Dame",
+        "team_a_rating": 83.77,
+        "team_a_record": "1-0",
+        "team_b_nickname": "MSU",
+        "team_b_name": "Michigan State",
+        "team_b_rating": 73.33,
+        "team_b_record": "1-0",
+        "rating_diff": 10.439999999999998,
+        "avg_rating": 78.55,
+        "is_top_matchup": true,
+        "distance_miles": 114.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.1797831058502,
+            32.3296335816193
+          ],
+          [
+            -89.3313306570053,
+            31.3289784266123
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Jack",
+        "team_a_name": "Jackson State",
+        "team_a_rating": 51.72,
+        "team_a_record": "1-0",
+        "team_b_nickname": "SoMS",
+        "team_b_name": "Southern Miss",
+        "team_b_rating": 63.07,
+        "team_b_record": "1-0",
+        "rating_diff": 11.350000000000001,
+        "avg_rating": 57.394999999999996,
+        "is_top_matchup": false,
+        "distance_miles": 85.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.2245758175849,
+            44.9765249691119
+          ],
+          [
+            -97.0904868543121,
+            47.9112541581595
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Minn",
+        "team_a_name": "Minnesota",
+        "team_a_rating": 80.32,
+        "team_a_record": "1-0",
+        "team_b_nickname": "UND",
+        "team_b_name": "North Dakota",
+        "team_b_rating": 57.74,
+        "team_b_record": "1-0",
+        "rating_diff": 22.57999999999999,
+        "avg_rating": 69.03,
+        "is_top_matchup": false,
+        "distance_miles": 273.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.0170228280525,
+            33.7928381752244
+          ],
+          [
+            -80.0684685823592,
+            32.9783500561406
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "CCar",
+        "team_a_name": "Coastal Carolina",
+        "team_a_rating": 62.18,
+        "team_a_record": "1-0",
+        "team_b_nickname": "ChSo",
+        "team_b_name": "Charleston Southern",
+        "team_b_rating": 36.53,
+        "team_b_record": "1-0",
+        "rating_diff": 25.65,
+        "avg_rating": 49.355000000000004,
+        "is_top_matchup": false,
+        "distance_miles": 82.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.3056761026382,
+            36.8887813152348
+          ],
+          [
+            -77.3652291297912,
+            35.5964257969893
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "ODU",
+        "team_a_name": "Old Dominion",
+        "team_a_rating": 57.77,
+        "team_a_record": "1-0",
+        "team_b_nickname": "ECU",
+        "team_b_name": "East Carolina",
+        "team_b_rating": 70.85,
+        "team_b_record": "1-0",
+        "rating_diff": 13.079999999999991,
+        "avg_rating": 64.31,
+        "is_top_matchup": false,
+        "distance_miles": 107.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9326238632202,
+            41.7189273847624
+          ],
+          [
+            -73.2456172977671,
+            41.2194501755771
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Mari",
+        "team_a_name": "Marist",
+        "team_a_rating": 19.07,
+        "team_a_record": "0-1",
+        "team_b_nickname": "SacH",
+        "team_b_name": "Sacred Heart",
+        "team_b_rating": 41.43,
+        "team_b_record": "0-1",
+        "rating_diff": 22.36,
+        "avg_rating": 30.25,
+        "is_top_matchup": false,
+        "distance_miles": 49.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.3673582077026,
+            39.4743654748612
+          ],
+          [
+            -86.918485,
+            40.434323
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "InSt",
+        "team_a_name": "Indiana State",
+        "team_a_rating": 42.59,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Purd",
+        "team_b_name": "Purdue",
+        "team_b_rating": 73.49,
+        "team_b_record": "1-0",
+        "rating_diff": 30.89999999999999,
+        "avg_rating": 58.04,
+        "is_top_matchup": false,
+        "distance_miles": 70.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.5314717292785,
+            37.3091932771759
+          ],
+          [
+            -90.6676949436291,
+            35.8489900953236
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "SEMS",
+        "team_a_name": "SE Missouri State",
+        "team_a_rating": 55.34,
+        "team_a_record": "0-1",
+        "team_b_nickname": "ArSt",
+        "team_b_name": "Arkansas State",
+        "team_b_rating": 53.42,
+        "team_b_record": "0-1",
+        "rating_diff": 1.9200000000000017,
+        "avg_rating": 54.38,
+        "is_top_matchup": false,
+        "distance_miles": 119.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9640808105468,
+            41.3870804347742
+          ],
+          [
+            -73.8832712173461,
+            40.8611805435104
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Army",
+        "team_a_name": "Army",
+        "team_a_rating": 67.79,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Ford",
+        "team_b_name": "Fordham",
+        "team_b_rating": 48.24,
+        "team_b_record": "1-0",
+        "rating_diff": 19.550000000000004,
+        "avg_rating": 58.015,
+        "is_top_matchup": false,
+        "distance_miles": 36.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.3769417861926,
+            36.3270867430187
+          ],
+          [
+            -83.1826186180114,
+            35.3046540476882
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "ETSU",
+        "team_a_name": "East Tennessee State",
+        "team_a_rating": 43.18,
+        "team_a_record": "0-1",
+        "team_b_nickname": "WCU",
+        "team_b_name": "Western Carolina",
+        "team_b_rating": 46.15,
+        "team_b_record": "0-1",
+        "rating_diff": 2.969999999999999,
+        "avg_rating": 44.665,
+        "is_top_matchup": false,
+        "distance_miles": 83.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.4889106750488,
+            32.6023616668175
+          ],
+          [
+            -85.9521769158619,
+            31.7995274152521
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Aub",
+        "team_a_name": "Auburn",
+        "team_a_rating": 75.57,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Troy",
+        "team_b_name": "Troy",
+        "team_b_rating": 73.2,
+        "team_b_record": "1-0",
+        "rating_diff": 2.3699999999999903,
+        "avg_rating": 74.38499999999999,
+        "is_top_matchup": false,
+        "distance_miles": 61.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.6226944327354,
+            39.2779653647445
+          ],
+          [
+            -75.7488301174382,
+            39.6617040181287
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Morg",
+        "team_a_name": "Morgan State",
+        "team_a_rating": 28.34,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Del",
+        "team_b_name": "Delaware",
+        "team_b_rating": 52.91,
+        "team_b_record": "1-0",
+        "rating_diff": 24.569999999999997,
+        "avg_rating": 40.625,
+        "is_top_matchup": false,
+        "distance_miles": 53.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.4176996220661,
+            40.2160276446665
+          ],
+          [
+            -84.5162614374157,
+            39.131284252734
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Ball",
+        "team_a_name": "Ball State",
+        "team_a_rating": 60.11,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Cinc",
+        "team_b_name": "Cincinnati",
+        "team_b_rating": 74.73,
+        "team_b_record": "1-0",
+        "rating_diff": 14.620000000000005,
+        "avg_rating": 67.42,
+        "is_top_matchup": false,
+        "distance_miles": 89.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.3928527832031,
+            33.7725569213194
+          ],
+          [
+            -83.3734416961669,
+            33.9498214894988
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "GT",
+        "team_a_name": "Georgia Tech",
+        "team_a_rating": 96.03,
+        "team_a_record": "1-0",
+        "team_b_nickname": "UGA",
+        "team_b_name": "Georgia",
+        "team_b_rating": 79.43,
+        "team_b_record": "1-0",
+        "rating_diff": 16.599999999999994,
+        "avg_rating": 87.73,
+        "is_top_matchup": true,
+        "distance_miles": 59.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0094745159149,
+            40.2793333205064
+          ],
+          [
+            -74.4650445708728,
+            40.5137828930887
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Mon",
+        "team_a_name": "Monmouth",
+        "team_a_rating": 41.3,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Rutg",
+        "team_b_name": "Rutgers",
+        "team_b_rating": 60.4,
+        "team_b_record": "1-0",
+        "rating_diff": 19.1,
+        "avg_rating": 50.849999999999994,
+        "is_top_matchup": false,
+        "distance_miles": 28.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.9564318910352,
+            32.7932634640853
+          ],
+          [
+            -81.7831707000732,
+            32.4122116763477
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Cit",
+        "team_a_name": "The Citadel",
+        "team_a_rating": 39.2,
+        "team_a_record": "0-1",
+        "team_b_nickname": "GASO",
+        "team_b_name": "Georgia Southern",
+        "team_b_rating": 62.25,
+        "team_b_record": "0-1",
+        "rating_diff": 23.049999999999997,
+        "avg_rating": 50.725,
+        "is_top_matchup": false,
+        "distance_miles": 109.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -94.1787958145141,
+            36.0678507851673
+          ],
+          [
+            -92.4601221084594,
+            35.0803032166218
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Ark",
+        "team_a_name": "Arkansas",
+        "team_a_rating": 78.72,
+        "team_a_record": "1-0",
+        "team_b_nickname": "CeAR",
+        "team_b_name": "Central Arkansas",
+        "team_b_rating": 50.93,
+        "team_b_record": "1-0",
+        "rating_diff": 27.79,
+        "avg_rating": 64.825,
+        "is_top_matchup": false,
+        "distance_miles": 118.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.5419158935546,
+            30.7139467376334
+          ],
+          [
+            -96.3407292285928,
+            30.6100975781747
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "SHSt",
+        "team_a_name": "Sam Houston State",
+        "team_a_rating": 48.38,
+        "team_a_record": "1-0",
+        "team_b_nickname": "TAMU",
+        "team_b_name": "Texas A&M",
+        "team_b_rating": 76.54,
+        "team_b_record": "1-0",
+        "rating_diff": 28.160000000000004,
+        "avg_rating": 62.46000000000001,
+        "is_top_matchup": false,
+        "distance_miles": 48.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -89.2169578488814,
+            37.7084995618978
+          ],
+          [
+            -92.3331141471862,
+            38.9358952967223
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "SoIL",
+        "team_a_name": "Southern Illinois",
+        "team_a_rating": 58.32,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Mizz",
+        "team_b_name": "Missouri",
+        "team_b_rating": 72.39,
+        "team_b_record": "1-0",
+        "rating_diff": 14.07,
+        "avg_rating": 65.355,
+        "is_top_matchup": false,
+        "distance_miles": 189.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.2107460048247,
+            30.1736932843449
+          ],
+          [
+            -94.6449971628411,
+            31.6254476402517
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "McNS",
+        "team_a_name": "McNeese State",
+        "team_a_rating": 36.62,
+        "team_a_record": "1-0",
+        "team_b_nickname": "SFA",
+        "team_b_name": "Stephen F. Austin",
+        "team_b_rating": 45.56,
+        "team_b_record": "1-0",
+        "rating_diff": 8.940000000000005,
+        "avg_rating": 41.09,
+        "is_top_matchup": false,
+        "distance_miles": 131.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -116.195912361145,
+            43.6027080538683
+          ],
+          [
+            -111.049590110778,
+            45.6589275258896
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "BoSt",
+        "team_a_name": "Boise State",
+        "team_a_rating": 73.65,
+        "team_a_record": "1-0",
+        "team_b_nickname": "MtSt",
+        "team_b_name": "Montana State",
+        "team_b_rating": 66.85,
+        "team_b_record": "1-0",
+        "rating_diff": 6.800000000000011,
+        "avg_rating": 70.25,
+        "is_top_matchup": false,
+        "distance_miles": 290.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9157140635693,
+            40.8723189213081
+          ],
+          [
+            -74.0954312377263,
+            40.6173245424404
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Col",
+        "team_a_name": "Columbia",
+        "team_a_rating": 42.89,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Wag",
+        "team_b_name": "Wagner",
+        "team_b_rating": 17.09,
+        "team_b_record": "0-1",
+        "rating_diff": 25.8,
+        "avg_rating": 29.990000000000002,
+        "is_top_matchup": false,
+        "distance_miles": 20.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.352337360382,
+            29.7522505600511
+          ],
+          [
+            -95.3490984109521,
+            29.7217679632935
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "TXSo",
+        "team_a_name": "Texas Southern",
+        "team_a_rating": 34.37,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Hou",
+        "team_b_name": "Houston",
+        "team_b_rating": 71.51,
+        "team_b_record": "1-0",
+        "rating_diff": 37.14000000000001,
+        "avg_rating": 52.94,
+        "is_top_matchup": false,
+        "distance_miles": 2.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.932616,
+            33.426364
+          ],
+          [
+            -106.507896780967,
+            31.7733453051277
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "ASU",
+        "team_a_name": "Arizona State",
+        "team_a_rating": 69.09,
+        "team_a_record": "1-0",
+        "team_b_nickname": "UTEP",
+        "team_b_name": "UTEP",
+        "team_b_rating": 57.65,
+        "team_b_record": "1-0",
+        "rating_diff": 11.440000000000005,
+        "avg_rating": 63.370000000000005,
+        "is_top_matchup": false,
+        "distance_miles": 335.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -121.763319969177,
+            38.5366354611756
+          ],
+          [
+            -119.817559719085,
+            39.5469248501715
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "UCD",
+        "team_a_name": "UC Davis",
+        "team_a_rating": 64.8,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Nev",
+        "team_b_name": "Nevada",
+        "team_b_rating": 53.04,
+        "team_b_record": "0-1",
+        "rating_diff": 11.759999999999998,
+        "avg_rating": 58.92,
+        "is_top_matchup": false,
+        "distance_miles": 125.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.8562021255493,
+            40.8121527327504
+          ],
+          [
+            -78.7775194644928,
+            42.9990683823964
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "PaSt",
+        "team_a_name": "Penn State",
+        "team_a_rating": 91.5,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Buff",
+        "team_b_name": "Buffalo",
+        "team_b_rating": 62.1,
+        "team_b_record": "1-0",
+        "rating_diff": 29.4,
+        "avg_rating": 76.8,
+        "is_top_matchup": true,
+        "distance_miles": 158.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.6369729898319,
+            40.5063595611279
+          ],
+          [
+            -76.8857456505959,
+            40.9520773619051
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "StFr",
+        "team_a_name": "Saint Francis",
+        "team_a_rating": 56.63,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Buck",
+        "team_b_name": "Bucknell",
+        "team_b_rating": 25.84,
+        "team_b_record": "0-1",
+        "rating_diff": 30.790000000000003,
+        "avg_rating": 41.235,
+        "is_top_matchup": false,
+        "distance_miles": 96.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.352337360382,
+            29.7522505600511
+          ],
+          [
+            -95.4092645645141,
+            29.7162340290943
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "HouC",
+        "team_a_name": "Houston Christian ",
+        "team_a_rating": 24.06,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Rice",
+        "team_b_name": "Rice",
+        "team_b_rating": 53.96,
+        "team_b_record": "0-1",
+        "rating_diff": 29.900000000000002,
+        "avg_rating": 39.01,
+        "is_top_matchup": false,
+        "distance_miles": 4.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.0478345286491,
+            41.465178807414
+          ],
+          [
+            -88.778222,
+            41.934014
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Valp",
+        "team_a_name": "Valparaiso",
+        "team_a_rating": 21.08,
+        "team_a_record": "0-1",
+        "team_b_nickname": "NIU",
+        "team_b_name": "NIU",
+        "team_b_rating": 56.32,
+        "team_b_record": "0-1",
+        "rating_diff": 35.24,
+        "avg_rating": 38.7,
+        "is_top_matchup": false,
+        "distance_miles": 95.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.741136312484,
+            32.279749382264
+          ],
+          [
+            -106.628102835815,
+            35.0676104826716
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "NMSU",
+        "team_a_name": "New Mexico State",
+        "team_a_rating": 55.78,
+        "team_a_record": "0-1",
+        "team_b_nickname": "UNM",
+        "team_b_name": "New Mexico",
+        "team_b_rating": 48.44,
+        "team_b_record": "0-1",
+        "rating_diff": 7.340000000000003,
+        "avg_rating": 52.11,
+        "is_top_matchup": false,
+        "distance_miles": 192.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -78.8734033040367,
+            38.4350889358521
+          ],
+          [
+            -79.175047,
+            37.354414
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "JMU",
+        "team_a_name": "James Madison",
+        "team_a_rating": 71.88,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Lib",
+        "team_b_name": "Liberty",
+        "team_b_rating": 63.73,
+        "team_b_record": "1-0",
+        "rating_diff": 8.149999999999999,
+        "avg_rating": 67.80499999999999,
+        "is_top_matchup": false,
+        "distance_miles": 76.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.1156001091003,
+            31.5586626355116
+          ],
+          [
+            -99.6973657608032,
+            32.4338020067956
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Bay",
+        "team_a_name": "Baylor",
+        "team_a_rating": 79.41,
+        "team_a_record": "0-1",
+        "team_b_nickname": "AbCh",
+        "team_b_name": "Abilene Christian",
+        "team_b_rating": 49.5,
+        "team_b_record": "0-1",
+        "rating_diff": 29.909999999999997,
+        "avg_rating": 64.455,
+        "is_top_matchup": false,
+        "distance_miles": 162.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.183797873547,
+            32.7734961025846
+          ],
+          [
+            -118.167614936828,
+            34.1615695872626
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "SD",
+        "team_a_name": "San Diego",
+        "team_a_rating": 31.49,
+        "team_a_record": "0-1",
+        "team_b_nickname": "UCLA",
+        "team_b_name": "UCLA",
+        "team_b_rating": 79.03,
+        "team_b_record": "0-1",
+        "rating_diff": 47.540000000000006,
+        "avg_rating": 55.26,
+        "is_top_matchup": false,
+        "distance_miles": 111.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.5033491849899,
+            27.9759944700371
+          ],
+          [
+            -80.3778648376464,
+            25.752492787474
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "USF",
+        "team_a_name": "South Florida",
+        "team_a_rating": 57.48,
+        "team_a_record": "0-1",
+        "team_b_nickname": "FIU",
+        "team_b_name": "FIU",
+        "team_b_rating": 43.16,
+        "team_b_record": "0-1",
+        "rating_diff": 14.32,
+        "avg_rating": 50.31999999999999,
+        "is_top_matchup": false,
+        "distance_miles": 201.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.250709533691,
+            37.8706866037042
+          ],
+          [
+            -122.161016464233,
+            37.4347264132917
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Cal",
+        "team_a_name": "California",
+        "team_a_rating": 70.38,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Stan",
+        "team_b_name": "Stanford",
+        "team_b_rating": 65.76,
+        "team_b_record": "1-0",
+        "rating_diff": 4.61999999999999,
+        "avg_rating": 68.07,
+        "is_top_matchup": false,
+        "distance_miles": 30.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.6010042130947,
+            42.2857554874701
+          ],
+          [
+            -84.7708296775817,
+            43.5776122825745
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "WMU",
+        "team_a_name": "Western Michigan",
+        "team_a_rating": 60.86,
+        "team_a_record": "0-1",
+        "team_b_nickname": "CMU",
+        "team_b_name": "Central Michigan",
+        "team_b_rating": 58.82,
+        "team_b_record": "0-1",
+        "rating_diff": 2.039999999999999,
+        "avg_rating": 59.84,
+        "is_top_matchup": false,
+        "distance_miles": 98.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.812105678856,
+            41.7515318861288
+          ],
+          [
+            -111.940805756734,
+            41.1919730213628
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "UtSt",
+        "team_a_name": "Utah State",
+        "team_a_rating": 59.84,
+        "team_a_record": "1-0",
+        "team_b_nickname": "WebS",
+        "team_b_name": "Weber State",
+        "team_b_rating": 63.71,
+        "team_b_record": "0-1",
+        "rating_diff": 3.8699999999999974,
+        "avg_rating": 61.775000000000006,
+        "is_top_matchup": false,
+        "distance_miles": 39.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.2359862327575,
+            40.0993057313305
+          ],
+          [
+            -88.1811618804931,
+            39.4805930240453
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Ill",
+        "team_a_name": "Illinois",
+        "team_a_rating": 79.54,
+        "team_a_record": "1-0",
+        "team_b_nickname": "EaIl",
+        "team_b_name": "Eastern Illinois",
+        "team_b_rating": 33.68,
+        "team_b_record": "0-1",
+        "rating_diff": 45.86000000000001,
+        "avg_rating": 56.61,
+        "is_top_matchup": false,
+        "distance_miles": 42.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -85.758105615668,
+            38.2054216852114
+          ],
+          [
+            -84.5052051544189,
+            38.0226216812936
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Louv",
+        "team_a_name": "Louisville",
+        "team_a_rating": 80.41,
+        "team_a_record": "1-0",
+        "team_b_nickname": "UK",
+        "team_b_name": "Kentucky",
+        "team_b_rating": 77.1,
+        "team_b_record": "1-0",
+        "rating_diff": 3.3100000000000023,
+        "avg_rating": 78.755,
+        "is_top_matchup": true,
+        "distance_miles": 69.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8277173042297,
+            42.6815441600528
+          ],
+          [
+            -76.136519908905,
+            43.0361328204232
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Alb",
+        "team_a_name": "Albany",
+        "team_a_rating": 40.31,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Syr",
+        "team_b_name": "Syracuse",
+        "team_b_rating": 71.72,
+        "team_b_record": "1-0",
+        "rating_diff": 31.409999999999997,
+        "avg_rating": 56.015,
+        "is_top_matchup": false,
+        "distance_miles": 119.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7801523208618,
+            44.3209773912753
+          ],
+          [
+            -96.8015222161342,
+            46.902907626801
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "SDSt",
+        "team_a_name": "South Dakota State",
+        "team_a_rating": 76.02,
+        "team_a_record": "0-1",
+        "team_b_nickname": "NDSU",
+        "team_b_name": "North Dakota State",
+        "team_b_rating": 69.69,
+        "team_b_record": "0-1",
+        "rating_diff": 6.329999999999998,
+        "avg_rating": 72.85499999999999,
+        "is_top_matchup": false,
+        "distance_miles": 178.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.3946461077084,
+            41.8421454678782
+          ],
+          [
+            -71.5380118857875,
+            41.9240451152858
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Bro",
+        "team_a_name": "Brown",
+        "team_a_rating": 33.58,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Bry",
+        "team_b_name": "Bryant",
+        "team_b_rating": 39.91,
+        "team_b_record": "0-1",
+        "rating_diff": 6.329999999999998,
+        "avg_rating": 36.745,
+        "is_top_matchup": false,
+        "distance_miles": 9.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.0162641355238,
+            30.2157960967561
+          ],
+          [
+            -91.1838197708129,
+            30.4120123982997
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Lous",
+        "team_a_name": "Louisiana",
+        "team_a_rating": 67.35,
+        "team_a_record": "1-0",
+        "team_b_nickname": "LSU",
+        "team_b_name": "LSU",
+        "team_b_rating": 86.27,
+        "team_b_record": "1-0",
+        "rating_diff": 18.92,
+        "avg_rating": 76.81,
+        "is_top_matchup": true,
+        "distance_miles": 51.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93.2799875736236,
+            37.1976295206597
+          ],
+          [
+            -95.943603515625,
+            36.148860675192
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "MoSt",
+        "team_a_name": "Missouri State",
+        "team_a_rating": 55.44,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Tuls",
+        "team_b_name": "Tulsa",
+        "team_b_rating": 64.69,
+        "team_b_record": "0-1",
+        "rating_diff": 9.25,
+        "avg_rating": 60.065,
+        "is_top_matchup": false,
+        "distance_miles": 164.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.3437948226928,
+            33.5093393678006
+          ],
+          [
+            -89.534146260209,
+            34.3621543029929
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "MVSt",
+        "team_a_name": "Mississippi Valley State",
+        "team_a_rating": 24.38,
+        "team_a_record": "0-1",
+        "team_b_nickname": "OleM",
+        "team_b_name": "Mississippi",
+        "team_b_rating": 78.72,
+        "team_b_record": "0-1",
+        "rating_diff": 54.34,
+        "avg_rating": 51.55,
+        "is_top_matchup": false,
+        "distance_miles": 75.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.8449335485868,
+            33.4987670093182
+          ],
+          [
+            -81.020216345787,
+            33.9725911545769
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "SCSt",
+        "team_a_name": "SC State",
+        "team_a_rating": 29.73,
+        "team_a_record": "0-1",
+        "team_b_nickname": "USCe",
+        "team_b_name": "South Carolina",
+        "team_b_rating": 76.61,
+        "team_b_record": "1-0",
+        "rating_diff": 46.879999999999995,
+        "avg_rating": 53.17,
+        "is_top_matchup": false,
+        "distance_miles": 34.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.0157558917999,
+            40.4467837650163
+          ],
+          [
+            -79.9551753012939,
+            39.6522199248281
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Pitt",
+        "team_a_name": "Pittsburgh",
+        "team_a_rating": 78.02,
+        "team_a_record": "1-0",
+        "team_b_nickname": "WVU",
+        "team_b_name": "West Virginia",
+        "team_b_rating": 74.44,
+        "team_b_record": "1-0",
+        "rating_diff": 3.5799999999999983,
+        "avg_rating": 76.22999999999999,
+        "is_top_matchup": true,
+        "distance_miles": 55.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.298095703125,
+            37.7344758710105
+          ],
+          [
+            -83.4253692626953,
+            38.1918679567418
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "EKY",
+        "team_a_name": "Eastern Kentucky",
+        "team_a_rating": 48.79,
+        "team_a_record": "0-1",
+        "team_b_nickname": "More",
+        "team_b_name": "Morehead State",
+        "team_b_rating": 16.1,
+        "team_b_record": "0-1",
+        "rating_diff": 32.69,
+        "avg_rating": 32.445,
+        "is_top_matchup": false,
+        "distance_miles": 57.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.6924955844879,
+            42.0653996675299
+          ],
+          [
+            -89.4127464294433,
+            43.0699380264687
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "NW",
+        "team_a_name": "Northwestern",
+        "team_a_rating": 62.73,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Wisc",
+        "team_b_name": "Wisconsin",
+        "team_b_rating": 78.22,
+        "team_b_record": "1-0",
+        "rating_diff": 15.490000000000002,
+        "avg_rating": 70.475,
+        "is_top_matchup": false,
+        "distance_miles": 111.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.8431797027587,
+            34.6787466574134
+          ],
+          [
+            -81.9334982124616,
+            34.9618610164783
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Clem",
+        "team_a_name": "Clemson",
+        "team_a_rating": 85.58,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Woff",
+        "team_b_name": "Wofford",
+        "team_b_rating": 41.09,
+        "team_b_record": "1-0",
+        "rating_diff": 44.489999999999995,
+        "avg_rating": 63.335,
+        "is_top_matchup": false,
+        "distance_miles": 55.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.0665049552917,
+            36.1257086623585
+          ],
+          [
+            -97.4425506591796,
+            35.205899594885
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "OkSt",
+        "team_a_name": "Oklahoma State",
+        "team_a_rating": 76.49,
+        "team_a_record": "1-0",
+        "team_b_nickname": "OU",
+        "team_b_name": "Oklahoma",
+        "team_b_rating": 82.6,
+        "team_b_record": "1-0",
+        "rating_diff": 6.109999999999999,
+        "avg_rating": 79.54499999999999,
+        "is_top_matchup": true,
+        "distance_miles": 67.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.5071153640747,
+            38.9848326354336
+          ],
+          [
+            -76.9473117324878,
+            38.9912027514442
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Navy",
+        "team_a_name": "Navy",
+        "team_a_rating": 67.61,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Mary",
+        "team_b_name": "Maryland",
+        "team_b_rating": 76.85,
+        "team_b_record": "1-0",
+        "rating_diff": 9.239999999999995,
+        "avg_rating": 72.22999999999999,
+        "is_top_matchup": false,
+        "distance_miles": 23.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.1240451335907,
+            40.9183122023565
+          ],
+          [
+            -72.960229121659,
+            41.3121251231602
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Ston",
+        "team_a_name": "Stony Brook",
+        "team_a_rating": 32.92,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Yale",
+        "team_b_name": "Yale",
+        "team_b_rating": 52.62,
+        "team_b_record": "1-0",
+        "rating_diff": 19.699999999999996,
+        "avg_rating": 42.769999999999996,
+        "is_top_matchup": false,
+        "distance_miles": 28.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.8114042282104,
+            42.2410046910841
+          ],
+          [
+            -71.5345226391631,
+            41.4880575336857
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Holy",
+        "team_a_name": "Holy Cross",
+        "team_a_rating": 65.86,
+        "team_a_record": "1-0",
+        "team_b_nickname": "URI",
+        "team_b_name": "Rhode Island",
+        "team_b_rating": 50.58,
+        "team_b_record": "1-0",
+        "rating_diff": 15.280000000000001,
+        "avg_rating": 58.22,
+        "is_top_matchup": false,
+        "distance_miles": 53.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -105.266886949539,
+            40.0093983744632
+          ],
+          [
+            -104.843688011169,
+            38.9969074312268
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Colo",
+        "team_a_name": "Colorado",
+        "team_a_rating": 54.03,
+        "team_a_record": "1-0",
+        "team_b_nickname": "AF",
+        "team_b_name": "Air Force",
+        "team_b_rating": 75.37,
+        "team_b_record": "1-0",
+        "rating_diff": 21.340000000000003,
+        "avg_rating": 64.7,
+        "is_top_matchup": false,
+        "distance_miles": 73.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.3528528213501,
+            36.5358122959844
+          ],
+          [
+            -88.3166027069091,
+            36.6183866173167
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Peay",
+        "team_a_name": "Austin Peay",
+        "team_a_rating": 52.66,
+        "team_a_record": "0-1",
+        "team_b_nickname": "MurS",
+        "team_b_name": "Murray State",
+        "team_b_rating": 31.76,
+        "team_b_record": "0-1",
+        "rating_diff": 20.899999999999995,
+        "avg_rating": 42.21,
+        "is_top_matchup": false,
+        "distance_miles": 53.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.4687964916229,
+            30.5109652922055
+          ],
+          [
+            -91.1895312981897,
+            30.5219699680965
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "SeLA",
+        "team_a_name": "SE Louisiana",
+        "team_a_rating": 55.68,
+        "team_a_record": "0-1",
+        "team_b_nickname": "Sou",
+        "team_b_name": "Southern U.",
+        "team_b_rating": 39.82,
+        "team_b_record": "0-1",
+        "rating_diff": 15.86,
+        "avg_rating": 47.75,
+        "is_top_matchup": false,
+        "distance_miles": 42.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -82.4218583106994,
+            38.4248653617916
+          ],
+          [
+            -83.019728064537,
+            40.0016856893694
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Mars",
+        "team_a_name": "Marshall",
+        "team_a_rating": 69.72,
+        "team_a_record": "1-0",
+        "team_b_nickname": "OhSt",
+        "team_b_name": "Ohio State",
+        "team_b_rating": 94.66,
+        "team_b_record": "1-0",
+        "rating_diff": 24.939999999999998,
+        "avg_rating": 82.19,
+        "is_top_matchup": true,
+        "distance_miles": 113.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -105.569064617156,
+            41.3119359929924
+          ],
+          [
+            -112.428524494171,
+            42.8700355712198
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Wyo",
+        "team_a_name": "Wyoming",
+        "team_a_rating": 62.76,
+        "team_a_record": "0-1",
+        "team_b_nickname": "IdSt",
+        "team_b_name": "Idaho State",
+        "team_b_rating": 34.28,
+        "team_b_record": "0-1",
+        "rating_diff": 28.479999999999997,
+        "avg_rating": 48.519999999999996,
+        "is_top_matchup": false,
+        "distance_miles": 367.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.3134394586086,
+            41.1390868254951
+          ],
+          [
+            -80.6499762946883,
+            41.1094614636735
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Kent",
+        "team_a_name": "Kent State",
+        "team_a_rating": 62.71,
+        "team_a_record": "1-0",
+        "team_b_nickname": "YoSt",
+        "team_b_name": "Youngstown State",
+        "team_b_rating": 55.53,
+        "team_b_record": "1-0",
+        "rating_diff": 7.18,
+        "avg_rating": 59.120000000000005,
+        "is_top_matchup": false,
+        "distance_miles": 34.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -113.077490329742,
+            37.6756687492631
+          ],
+          [
+            -115.017113685607,
+            36.0859738804692
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "SoUT",
+        "team_a_name": "Southern Utah",
+        "team_a_rating": 44.8,
+        "team_a_record": "0-1",
+        "team_b_nickname": "UNLV",
+        "team_b_name": "UNLV",
+        "team_b_rating": 58.85,
+        "team_b_record": "1-0",
+        "rating_diff": 14.050000000000004,
+        "avg_rating": 51.825,
+        "is_top_matchup": false,
+        "distance_miles": 153.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -72.5356268605241,
+            42.3775132360045
+          ],
+          [
+            -71.1664724349975,
+            42.3351083489585
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "UMas",
+        "team_a_name": "UMass",
+        "team_a_rating": 42.91,
+        "team_a_record": "0-1",
+        "team_b_nickname": "BC",
+        "team_b_name": "Boston College",
+        "team_b_rating": 60.84,
+        "team_b_record": "0-1",
+        "rating_diff": 17.930000000000007,
+        "avg_rating": 51.875,
+        "is_top_matchup": false,
+        "distance_miles": 70.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92.7214074544663,
+            32.5208674487851
+          ],
+          [
+            -93.0965100969665,
+            31.7474287136861
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "GrSt",
+        "team_a_name": "Grambling State",
+        "team_a_rating": 29.52,
+        "team_a_record": "0-1",
+        "team_b_nickname": "NWSt",
+        "team_b_name": "Northwestern State",
+        "team_b_rating": 34.22,
+        "team_b_record": "0-1",
+        "rating_diff": 4.699999999999999,
+        "avg_rating": 31.869999999999997,
+        "is_top_matchup": false,
+        "distance_miles": 57.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.7952701999999,
+            33.463425
+          ],
+          [
+            -86.3114156948226,
+            32.3806859735875
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Sam",
+        "team_a_name": "Samford",
+        "team_a_rating": 58.74,
+        "team_a_record": "0-1",
+        "team_b_nickname": "AlSt",
+        "team_b_name": "Alabama State",
+        "team_b_rating": 33.76,
+        "team_b_record": "0-1",
+        "rating_diff": 24.980000000000004,
+        "avg_rating": 46.25,
+        "is_top_matchup": false,
+        "distance_miles": 79.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.1592235565185,
+            33.2039350840891
+          ],
+          [
+            -96.782705783844,
+            32.8377158099425
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "NoTX",
+        "team_a_name": "North Texas",
+        "team_a_rating": 63.26,
+        "team_a_record": "0-1",
+        "team_b_nickname": "SMU",
+        "team_b_name": "SMU",
+        "team_b_rating": 71.89,
+        "team_b_record": "0-1",
+        "rating_diff": 8.630000000000003,
+        "avg_rating": 67.575,
+        "is_top_matchup": false,
+        "distance_miles": 33.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.12680128,
+            42.366997
+          ],
+          [
+            -70.9391525387764,
+            43.138686442556
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "Harv",
+        "team_a_name": "Harvard",
+        "team_a_rating": 48.99,
+        "team_a_record": "1-0",
+        "team_b_nickname": "UNH",
+        "team_b_name": "New Hampshire",
+        "team_b_rating": 48.62,
+        "team_b_record": "1-0",
+        "rating_diff": 0.37000000000000455,
+        "avg_rating": 48.805,
+        "is_top_matchup": false,
+        "distance_miles": 54.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -88.8611769676208,
+            36.3447372747397
+          ],
+          [
+            -89.9780574112838,
+            35.1208569172689
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "UTM",
+        "team_a_name": "UT Martin",
+        "team_a_rating": 48.78,
+        "team_a_record": "1-0",
+        "team_b_nickname": "Memp",
+        "team_b_name": "Memphis",
+        "team_b_rating": 73.86,
+        "team_b_record": "1-0",
+        "rating_diff": 25.08,
+        "avg_rating": 61.32,
+        "is_top_matchup": false,
+        "distance_miles": 105.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -117.119600772857,
+            32.7830532577911
+          ],
+          [
+            -118.287895917892,
+            34.0140097406291
+          ]
+        ]
+      },
+      "properties": {
+        "round": 2,
+        "team_a_nickname": "SDSU",
+        "team_a_name": "San Diego State",
+        "team_a_rating": 64.76,
+        "team_a_record": "1-0",
+        "team_b_nickname": "USC",
+        "team_b_name": "Southern California",
+        "team_b_rating": 83.58,
+        "team_b_record": "1-0",
+        "rating_diff": 18.819999999999993,
+        "avg_rating": 74.17,
+        "is_top_matchup": false,
+        "distance_miles": 108.5
+      }
+    }
+  ]
+}
